@@ -1,0 +1,16 @@
+{
+  "name": "cctv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minify": "terser index.js -v -m --output assets/js/index.min.js && csso index.css --output assets/css/index.min.css"
+  },
+  "author": "Aduy",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  }
+}

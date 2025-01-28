@@ -1,0 +1,1002 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": "FQ-lpFT8-C5tKkfQsm-uT",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Bendungan Lempake",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d525282c0.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d525282c0.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/bendungan-lempake-FQ-lpFT8-C5tKkfQsm-uT/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/FQ-lpFT8-C5tKkfQsm-uT/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/FQ-lpFT8-C5tKkfQsm-uT/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/FQ-lpFT8-C5tKkfQsm-uT/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/FQ-lpFT8-C5tKkfQsm-uT/stream",
+                "https://backend.samagov.id/api/cctv/FQ-lpFT8-C5tKkfQsm-uT/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/FQ-lpFT8-C5tKkfQsm-uT/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M7Y0MzNJS9NLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": "",
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:25.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "XiJ1fLWgU01T1kCkYZSPu",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "CCTV TANJAKAN BUKIT PINANG",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d4f547fd7.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d4f547fd7.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/cctv-tanjakan-bukit-pinang-XiJ1fLWgU01T1kCkYZSPu/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/XiJ1fLWgU01T1kCkYZSPu/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/XiJ1fLWgU01T1kCkYZSPu/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/XiJ1fLWgU01T1kCkYZSPu/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/XiJ1fLWgU01T1kCkYZSPu/stream",
+                "https://backend.samagov.id/api/cctv/XiJ1fLWgU01T1kCkYZSPu/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/XiJ1fLWgU01T1kCkYZSPu/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoUYG3Yx6-wbwrfBrIz0gxUyduTMAcaEInCcQ8A9EjTkW4TQxViXuEiEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJszBO0zVOTUrVTUszTtJNNU8z0TVLTUtLTEtKTUu1tNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:37.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "PheA4yub6ATPL9joJ_bjl",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "CCTV TANJAKAN SURYANATA",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d53a57564.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d53a57564.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/cctv-tanjakan-suryanata-PheA4yub6ATPL9joJ_bjl/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/PheA4yub6ATPL9joJ_bjl/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/PheA4yub6ATPL9joJ_bjl/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/PheA4yub6ATPL9joJ_bjl/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/PheA4yub6ATPL9joJ_bjl/stream",
+                "https://backend.samagov.id/api/cctv/PheA4yub6ATPL9joJ_bjl/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/PheA4yub6ATPL9joJ_bjl/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJMzU11TUytjDRTUtLtNBNNEsz0U01BrKTk03STMxT9JITcw0MhASE07vKM4odvNvMHVSElz2LAwA&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:46.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "IM-5RTx_m1DbHJ1gmMIAl",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "CITRA NIAGA 1",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d51b496be.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d51b496be.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/citra-niaga-1-IM-5RTx_m1DbHJ1gmMIAl/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/IM-5RTx_m1DbHJ1gmMIAl/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/IM-5RTx_m1DbHJ1gmMIAl/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/IM-5RTx_m1DbHJ1gmMIAl/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/IM-5RTx_m1DbHJ1gmMIAl/stream",
+                "https://backend.samagov.id/api/cctv/IM-5RTx_m1DbHJ1gmMIAl/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/IM-5RTx_m1DbHJ1gmMIAl/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoUTSxMlihlYay3qUtRQRDQMAFd2XMaEGO5-L-ZcEawqXkipuGHE2UiEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJs0g21zUwSzTTTUuzTNI1ME9L1TU0SEszMElNTktJttBLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A&format=jpeg&frames=all&media=video&t=live&quality=low",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T14:46:01.000000Z",
+                "string": "Tuesday, 28 January 2025 22:46 WITA",
+                "short": "28 January 2025 22:46",
+                "ago": "44 minutes ago"
+            }
+        },
+        {
+            "id": "Kmz0IzGa2-oHObxoiDRoO",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "CITRA NIAGA 2",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d4ddadd9e.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d4ddadd9e.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/citra-niaga-2-Kmz0IzGa2-oHObxoiDRoO/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/Kmz0IzGa2-oHObxoiDRoO/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/Kmz0IzGa2-oHObxoiDRoO/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/Kmz0IzGa2-oHObxoiDRoO/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/Kmz0IzGa2-oHObxoiDRoO/stream",
+                "https://backend.samagov.id/api/cctv/Kmz0IzGa2-oHObxoiDRoO/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/Kmz0IzGa2-oHObxoiDRoO/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJSzJJ1k01SjLQTUuzTNO1MExL1DU3SUszNU40T0s1MNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:13.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "ITae_y-fT78CQagMv2KHk",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Citra Niaga 2",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d502e44b4.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d502e44b4.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/citra-niaga-2-ITae_y-fT78CQagMv2KHk/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/ITae_y-fT78CQagMv2KHk/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/ITae_y-fT78CQagMv2KHk/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/ITae_y-fT78CQagMv2KHk/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/ITae_y-fT78CQagMv2KHk/stream",
+                "https://backend.samagov.id/api/cctv/ITae_y-fT78CQagMv2KHk/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/ITae_y-fT78CQagMv2KHk/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=4xIx1DNLNkw2NzQ3NDFMS9FLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:50.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "lN2ehXSc_HVYCAXbb2QD5",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "DPRD Kota Samarinda",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d535ba777.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d535ba777.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/dprd-kota-samarinda-lN2ehXSc_HVYCAXbb2QD5/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/lN2ehXSc_HVYCAXbb2QD5/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/lN2ehXSc_HVYCAXbb2QD5/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/lN2ehXSc_HVYCAXbb2QD5/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/lN2ehXSc_HVYCAXbb2QD5/stream",
+                "https://backend.samagov.id/api/cctv/lN2ehXSc_HVYCAXbb2QD5/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/lN2ehXSc_HVYCAXbb2QD5/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DVLTjM0T7VMTjZNSdNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:41.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "dqtAA-5E4z-ybbiEPk6nc",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "DPRD Prov Kaltim",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d53f0aa6c.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d53f0aa6c.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/dprd-prov-kaltim-dqtAA-5E4z-ybbiEPk6nc/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/dqtAA-5E4z-ybbiEPk6nc/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/dqtAA-5E4z-ybbiEPk6nc/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/dqtAA-5E4z-ybbiEPk6nc/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/dqtAA-5E4z-ybbiEPk6nc/stream",
+                "https://backend.samagov.id/api/cctv/dqtAA-5E4z-ybbiEPk6nc/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/dqtAA-5E4z-ybbiEPk6nc/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=4xIx1DMwMLSwMDU2TzQ1tNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:51.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "-F8FMjF6DBY067u4EL-4X",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Depan Balaikota",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d52322486.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d52322486.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/depan-balaikota--F8FMjF6DBY067u4EL-4X/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/-F8FMjF6DBY067u4EL-4X/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/-F8FMjF6DBY067u4EL-4X/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/-F8FMjF6DBY067u4EL-4X/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/-F8FMjF6DBY067u4EL-4X/stream",
+                "https://backend.samagov.id/api/cctv/-F8FMjF6DBY067u4EL-4X/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/-F8FMjF6DBY067u4EL-4X/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1t9BLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:23.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "_faeR5-TYMVX-cHpMpz6G",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Depan RS SMC",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d528f18a7.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d528f18a7.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/depan-rs-smc-_faeR5-TYMVX-cHpMpz6G/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/_faeR5-TYMVX-cHpMpz6G/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/_faeR5-TYMVX-cHpMpz6G/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/_faeR5-TYMVX-cHpMpz6G/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/_faeR5-TYMVX-cHpMpz6G/stream",
+                "https://backend.samagov.id/api/cctv/_faeR5-TYMVX-cHpMpz6G/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/_faeR5-TYMVX-cHpMpz6G/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJMzGx1E0xNUvUTUuzNNU1AQroGhgB2YkWZmmmKaZ6yYm5BgZCAsLpXeUZxQ7ebeYOKsLLnsUBAA&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:28.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "bQBGwP1I4_Wh1F7aiEsO5",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Depan RSUD I. A. Moeis",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d50b058ea.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d50b058ea.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/depan-rsud-i-a-moeis-bQBGwP1I4_Wh1F7aiEsO5/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/bQBGwP1I4_Wh1F7aiEsO5/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/bQBGwP1I4_Wh1F7aiEsO5/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/bQBGwP1I4_Wh1F7aiEsO5/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/bQBGwP1I4_Wh1F7aiEsO5/stream",
+                "https://backend.samagov.id/api/cctv/bQBGwP1I4_Wh1F7aiEsO5/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/bQBGwP1I4_Wh1F7aiEsO5/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJSzMw1U0xMTPWTUuzSNM1NExL0U1NTUszTDE2TzMxTdJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:59.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "mCRqFM-IlS31NPhAuvoip",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Ds Budaya Pampang",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6778dca38c667.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6778dca38c667.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/ds-budaya-pampang-mCRqFM-IlS31NPhAuvoip/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/mCRqFM-IlS31NPhAuvoip/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/mCRqFM-IlS31NPhAuvoip/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/mCRqFM-IlS31NPhAuvoip/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/mCRqFM-IlS31NPhAuvoip/stream",
+                "https://backend.samagov.id/api/cctv/mCRqFM-IlS31NPhAuvoip/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/mCRqFM-IlS31NPhAuvoip/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU7OGS4kYCeuSo-gXbH4QWOTs5u9AaEANVH_sutEfGrVEK-5ppR7ciEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=4xIx1DOxSE00M7Y0MzM1MNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-04T07:00:51.000000Z",
+                "string": "Saturday, 04 January 2025 15:00 WITA",
+                "short": "04 January 2025 15:00",
+                "ago": "3 weeks ago"
+            }
+        },
+        {
+            "id": "T9bcFIc55JDd7R9dU67-F",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Fly Over (Sisi Juanda)",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d539071b5.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d539071b5.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/fly-over-sisi-juanda-T9bcFIc55JDd7R9dU67-F/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/T9bcFIc55JDd7R9dU67-F/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/T9bcFIc55JDd7R9dU67-F/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/T9bcFIc55JDd7R9dU67-F/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/T9bcFIc55JDd7R9dU67-F/stream",
+                "https://backend.samagov.id/api/cctv/T9bcFIc55JDd7R9dU67-F/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/T9bcFIc55JDd7R9dU67-F/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDWwSEk2TNNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:45.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "2IZNkqODGAnk_M3I3X2ap",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Fly Over Aw.Sjah",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d5124d931.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d5124d931.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/fly-over-awsjah-2IZNkqODGAnk_M3I3X2ap/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/2IZNkqODGAnk_M3I3X2ap/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/2IZNkqODGAnk_M3I3X2ap/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/2IZNkqODGAnk_M3I3X2ap/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/2IZNkqODGAnk_M3I3X2ap/stream",
+                "https://backend.samagov.id/api/cctv/2IZNkqODGAnk_M3I3X2ap/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/2IZNkqODGAnk_M3I3X2ap/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:06.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "ZMQdKkCMqCrf5oRNyb2ZS",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Fly Over Juanda",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d4e902aa7.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d4e902aa7.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/fly-over-juanda-ZMQdKkCMqCrf5oRNyb2ZS/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/ZMQdKkCMqCrf5oRNyb2ZS/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/ZMQdKkCMqCrf5oRNyb2ZS/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/ZMQdKkCMqCrf5oRNyb2ZS/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/ZMQdKkCMqCrf5oRNyb2ZS/stream",
+                "https://backend.samagov.id/api/cctv/ZMQdKkCMqCrf5oRNyb2ZS/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/ZMQdKkCMqCrf5oRNyb2ZS/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoUYG3Yx6-wbwrfBrIz0gxUyduTMAcaEInCcQ8A9EjTkW4TQxViXuEiEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:25.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "OjqWI8HuRCvL__fKR5Vu7",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Grosir Segiri 1",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d4fe971be.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d4fe971be.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/grosir-segiri-1-OjqWI8HuRCvL__fKR5Vu7/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/OjqWI8HuRCvL__fKR5Vu7/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/OjqWI8HuRCvL__fKR5Vu7/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/OjqWI8HuRCvL__fKR5Vu7/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/OjqWI8HuRCvL__fKR5Vu7/stream",
+                "https://backend.samagov.id/api/cctv/OjqWI8HuRCvL__fKR5Vu7/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/OjqWI8HuRCvL__fKR5Vu7/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoUYG3Yx6-wbwrfBrIz0gxUyduTMAcaEInCcQ8A9EjTkW4TQxViXuEiEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=4xIx1EszSTJMNkpKsUg0NNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:46.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "WXcGN2H0BAB8MeIPsmo3S",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Grosir Segiri 2",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d4ea9446b.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d4ea9446b.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/grosir-segiri-2-WXcGN2H0BAB8MeIPsmo3S/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/WXcGN2H0BAB8MeIPsmo3S/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/WXcGN2H0BAB8MeIPsmo3S/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/WXcGN2H0BAB8MeIPsmo3S/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/WXcGN2H0BAB8MeIPsmo3S/stream",
+                "https://backend.samagov.id/api/cctv/WXcGN2H0BAB8MeIPsmo3S/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/WXcGN2H0BAB8MeIPsmo3S/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoUYG3Yx6-wbwrfBrIz0gxUyduTMAcaEInCcQ8A9EjTkW4TQxViXuEiEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=4xIx1EszSTJMNkpKTjRONNRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:26.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "T-iKqe8aWXsmhbBcpZowp",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Gunung Manggah",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d54d4ae03.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d54d4ae03.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/gunung-manggah-T-iKqe8aWXsmhbBcpZowp/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/T-iKqe8aWXsmhbBcpZowp/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/T-iKqe8aWXsmhbBcpZowp/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/T-iKqe8aWXsmhbBcpZowp/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/T-iKqe8aWXsmhbBcpZowp/stream",
+                "https://backend.samagov.id/api/cctv/T-iKqe8aWXsmhbBcpZowp/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/T-iKqe8aWXsmhbBcpZowp/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzJKNNNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:02:05.000000Z",
+                "string": "Tuesday, 28 January 2025 21:02 WITA",
+                "short": "28 January 2025 21:02",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "G1FurlzdTh4JAYt_OOTs_",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Jalan Dwikora 1",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d52714116.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d52714116.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/jalan-dwikora-1-G1FurlzdTh4JAYt_OOTs_/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/G1FurlzdTh4JAYt_OOTs_/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/G1FurlzdTh4JAYt_OOTs_/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/G1FurlzdTh4JAYt_OOTs_/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/G1FurlzdTh4JAYt_OOTs_/stream",
+                "https://backend.samagov.id/api/cctv/G1FurlzdTh4JAYt_OOTs_/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/G1FurlzdTh4JAYt_OOTs_/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoU8yzs2Lr9Wr51_zIMA2W0IznQBRcaED_duUOb8EnUo_q2V6BrbM0iEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJMzSz1E1MSTTRTUtLTNNNTk5L1k0ySUtLMkk1TTNOsdBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:01:27.000000Z",
+                "string": "Tuesday, 28 January 2025 21:01 WITA",
+                "short": "28 January 2025 21:01",
+                "ago": "2 hours ago"
+            }
+        },
+        {
+            "id": "vEvRAKbervVAJc7WJeSCz",
+            "type": "iframe",
+            "source": "iconpln",
+            "caption": "Jalan Dwikora 2",
+            "thumbnail": "https://backend.samagov.id/storage/thumbnails/6798d4edd4ec3.jpg",
+            "image": "https://backend.samagov.id/thumbnails/6798d4edd4ec3.jpg",
+            "thumbnail_alt": "https://backend.samagov.id/storage/cctv-stream/thumbnail-small/jalan-dwikora-2-vEvRAKbervVAJc7WJeSCz/0.jpeg",
+            "stream": "https://backend.samagov.id/api/cctv/vEvRAKbervVAJc7WJeSCz/stream",
+            "iframe": "https://backend.samagov.id/api/cctv/vEvRAKbervVAJc7WJeSCz/iframe",
+            "live_image": "https://backend.samagov.id/api/cctv/vEvRAKbervVAJc7WJeSCz/live-image",
+            "cached": [
+                "https://backend.samagov.id/api/cctv/vEvRAKbervVAJc7WJeSCz/stream",
+                "https://backend.samagov.id/api/cctv/vEvRAKbervVAJc7WJeSCz/stream"
+            ],
+            "is_cached": false,
+            "playlist_url": "https://backend.samagov.id/api/cctv/vEvRAKbervVAJc7WJeSCz/playlist",
+            "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media?session=AXQAi_8KEOFwg8Ds1UExjWk1VvcCCekSFgoUYG3Yx6-wbwrfBrIz0gxUyduTMAcaEInCcQ8A9EjTkW4TQxViXuEiEG4SCpxUgk9ivN4Jozv2qgkqBWd1ZXN0Mh0aEPQ8KjJPZE8ZmRtC444TWeoqCW1haGFwYXRpaA&cameraId=49Ix0UtLS0tJMzBM1jVMNTbQTUtLMtFNTk1L0TU0BsoYpSWmmZmb6SUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA&format=fmp4&frames=all&media=video&t=live&quality=high",
+            "latitude": null,
+            "longitude": null,
+            "label": null,
+            "status": {
+                "code": 1,
+                "label": "Aktif"
+            },
+            "flood": {
+                "enable": false,
+                "code": 0,
+                "label": "Tidak Banjir"
+            },
+            "trafic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "traffic": {
+                "enable": false,
+                "code": 0,
+                "label": "Lenggang"
+            },
+            "updated_at": {
+                "time": "2025-01-28T13:00:29.000000Z",
+                "string": "Tuesday, 28 January 2025 21:00 WITA",
+                "short": "28 January 2025 21:00",
+                "ago": "2 hours ago"
+            }
+        }
+    ],
+    "first_page_url": "https://backend.samagov.id/api/cctv?page=1",
+    "from": 1,
+    "last_page": 7,
+    "last_page_url": "https://backend.samagov.id/api/cctv?page=7",
+    "links": [
+        {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=1",
+            "label": "1",
+            "active": true
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=2",
+            "label": "2",
+            "active": false
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=3",
+            "label": "3",
+            "active": false
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=4",
+            "label": "4",
+            "active": false
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=5",
+            "label": "5",
+            "active": false
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=6",
+            "label": "6",
+            "active": false
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=7",
+            "label": "7",
+            "active": false
+        },
+        {
+            "url": "https://backend.samagov.id/api/cctv?page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }
+    ],
+    "next_page_url": "https://backend.samagov.id/api/cctv?page=2",
+    "path": "https://backend.samagov.id/api/cctv",
+    "per_page": 20,
+    "prev_page_url": null,
+    "to": 20,
+    "total": 136
+}

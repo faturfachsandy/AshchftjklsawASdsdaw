@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCTV Viewer</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body class="bg-slate-900">
+
+    <div id="modal-info" class="fixed insert-0 bg-gray-600 bg-opacity-50 overflow-y-auto h-screen w-full z-50 top-0" style="display: none;">
+        <div class="box-modal relative mx-auto p-5 border shadow-lg rounded-md bg-white mt-4">
+            <div class="mt-3">
+                <h3 class="text-lg leading-6 font-medium text-gray-900 text-center">
+                    CCTV SAMARINDA
+                </h3>
+                <div class="mt-2 px-4 py-3">
+                    <p class="text-sm text-gray-500 text-justify mb-3">
+                        Data CCTV yang digunakan bersumber dari <a href="https://diskominfo.samarindakota.go.id/" target="_blank" class="underline underline-offset-1 text-blue-900">DISKOMINFO Kota Samarinda</a>.
+                    </p>
+                    <p class="text-sm text-gray-500 text-justify mb-3">
+                        Website ini dibuat dengan tujuan utama untuk meningkatkan pengalaman pengguna dalam mengakses CCTV Samarinda, sehingga menjadi lebih mudah dan sederhana. Pengguna dapat mencari dan melihat siaran CCTV dari berbagai lokasi secara bersamaan dalam satu halaman tab browser tanpa perlu berpindah halaman.
+                    </p>
+                    <p class="text-sm text-gray-500 text-justify">
+                        NOTE : <br/>
+                        Pengguna hanya dapat memilih maksimal 6 lokasi dengan tujuan menghindari proses streaming yang terganggu oleh buffering. Buffering dapat terjadi karena faktor kecepatan internet pengguna atau server layanan CCTV sedang lemah.
+                    </p>
+                </div>
+                <div class="items-center px-4 py-3 flex flex-row justify-between items-center">
+                    <a href="https://aduy.site" target="_blank" class="text-sm text-blue-900">
+                        &copy; <span class="underline underline-offset-1">Aduy</span>
+                    </a>
+                    <button id="button-close-modal"
+                        class="px-4 py-2 bg-red-500 text-white
+                            text-base font-medium rounded-md
+                            shadow-sm hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-red-300">
+                        Tutup
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="m-3 bg-slate-800 rounded-lg p-3">
+        <div class="block mb-3">
+            <label id="search-location-container" class="relative block mx-auto">
+                <input id="search-location" class="w-full uppercase placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-2 pr-12 shadow-sm focus:outline-none sm:text-sm" placeholder="Cari lokasi" type="text"/>
+                <span id="count-location" class="absolute flex text-white top-0 right-0 items-center px-2 h-full bg-slate-500 rounded-r ring-inset outline-none flex justify-center w-[40px]">
+                    0
+                </span>
+            </label>
+        </div>
+        <div class="w-full overflow-x-auto">
+            <ul id="list-cctv" class="list-none"></ul>
+        </div>
+    </div>
+
+    <div class="m-3 flex justify-center">
+        <div id="container" class="flex flex-wrap flex-row justify-center items-center w-fit">
+        </div>
+    </div>
+
+    <div class="fixed bottom-4 right-4">
+        <button 
+            id="button-info" 
+            type="button" 
+            class="bg-slate-700 hover:bg-blue-800 text-white font-bold text-center p-1 text-2xl rounded-full shadow-lg w-[50px] h-[50px] flex justify-center items-center">
+            <span class="fas fa-circle-info"></span>
+        </button>
+    </div>
+
+    <script src="https://cdn.tailwindcss.com?plugins=typography,aspect-ratio,container-queries"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>

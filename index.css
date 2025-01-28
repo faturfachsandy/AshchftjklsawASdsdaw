@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    gap: .75rem;
+    grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
+}
+
+#list-cctv {
+    width: fit-content;
+    list-style: none;
+    display: grid;
+    gap: 12px;
+    grid-auto-flow: column;
+}
+
+#search-location-container {
+    width: 100%;
+}
+
+#list-cctv > li {
+    width: 270px;
+}
+
+.box-modal {
+    height: fit-content;
+    width: 90%;
+}
+
+@media screen and (min-width: 640px) {
+    #search-location-container {
+        width: 80%;
+    }
+
+    #list-cctv {
+        gap: 4px;
+    }
+
+    .box-modal {
+        width: 70%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #search-location-container {
+        width: 50%;
+    }
+
+    #list-cctv {
+        margin: auto;
+    }
+
+    .box-modal {
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    #container {
+        gap: 0;
+    }
+
+    .video-player {
+        height: 45vh;
+    }
+
+    #search-location-container {
+        width: 30%;
+    }
+
+    .box-modal {
+        width: 30%;
+    }
+}

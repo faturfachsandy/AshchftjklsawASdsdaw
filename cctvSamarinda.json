@@ -1,0 +1,781 @@
+{
+    "total": 128,
+    "metadata": {
+        "url": "https://vmssamarinda.iconpln.co.id:8443/mt/api/rest/v1/media",
+        "format": "fmp4",
+        "frames": "all",
+        "media": "video",
+        "quality": "high",
+        "t": "live"
+    },
+    "locations": [
+        {
+            "location": "SIMPANG LEMBUSWANA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-lembuswana",
+            "cameraId": "4xIx1Es2Mbc0MDWwSEk2stBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.475294, 117.146139"
+        },
+        {
+            "location": "TERAS SAMARINDA 9",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-9",
+            "cameraId": "4xIx1EszSTJMNkpKsUg0tdBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501576, 117.137207"
+        },
+        {
+            "location": "JEMBATAN MAHKOTA 2 (PALARAN)",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-mahkota-2-palaran",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1T9ZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.537857, 117.152881"
+        },
+        {
+            "location": "JEMBATAN MAHKOTA 2 (SK)",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-mahkota-2-sk",
+            "cameraId": "4xIx1DNOTjU2S0oxM06zNNJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.529742, 117.162421"
+        },
+        {
+            "location": "FLY OVER JUANDA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/fly-over-juanda",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG LEMBUSWANA-TENGGARONG",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-lembuswana-tenggarong",
+            "cameraId": "4xIx1DMwMLSwMDW2SEwzstBLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG LEMBUSWANA - M YAMIN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-lembuswana-m-yamin",
+            "cameraId": "4xIx1DNOTjU2S0oxM05LNtFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 KEBUN AGUNG",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-kebun-agung",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwTtNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "DPRD KOTA SAMARINDA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/dprd-kota-samarinda",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DVLTjM0T7VMTjZNSdNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG SEMPAJA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-sempaja",
+            "cameraId": "4xIx1Es2Mbc0MDVMNTI1N9FLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "CITRA NIAGA 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/citra-niaga-2",
+            "cameraId": "4xIx1DNLNkw2NzQ3NDFMS9FLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG GUNUNG LINGAI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-gunung-lingai",
+            "cameraId": "4xIx1DNOTjU2S0oxM06zMNVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "DPRD PROV KALTIM",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/dprd-prov-kaltim",
+            "cameraId": "4xIx1DMwMLSwMDU2TzQ1tNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "FLY OVER (SISI JUANDA)",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/fly-over-sisi-juanda",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDWwSEk2TNNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG PASUNDAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-pasundan",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1N9VLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MUGIREJO",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-mugirejo",
+            "cameraId": "4xIx1DNLNkw2NzQ3NDEyNNJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG SPBU KESEJAHTERAAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-spbu-kesejahteraan",
+            "cameraId": "4xIx1DNOTjU2S0oxM05LNdZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG ANTASARI SIRADJ SALMAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-antasari-siradj-salman",
+            "cameraId": "4xIx1DNLNkw2NzQ3NDFMS9JLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 SURYANATA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-suryanata",
+            "cameraId": "4xIx1DMwMLSwMDW2SDKxMNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG ALAYA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-alaya",
+            "cameraId": "4xIx1Es2Mbc0MDWwTDIxSNRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.462202, 117.175775"
+        },
+        {
+            "location": "JEMBATAN MAHAKAM US",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-mahakam-us",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDWwSEk2MtZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "JEMBATAN MAHAKAM",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-mahakam",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDVMNTI1N9BLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "PASAR SEGIRI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/pasar-segiri",
+            "cameraId": "4xIx1DMwMLSwMDW2SEwzStFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "JEMBATAN PASAR SEGIRI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-pasar-segiri",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwMdBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN SAMARENDAH 4",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-samarendah-4",
+            "cameraId": "49Ix0UtLS0tJS0lK1jUzMrTUTUuzMNW1ME8z0DUESRiZmaVZJKfoJSfmGhgICTRPbH0equ8jvq1VZqvf2qMeAA",
+            "latlong": null
+        },
+        {
+            "location": "TPS GUNUNG MANGGAH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/tps-gunung-manggah",
+            "cameraId": "49Ix0UtLS0tJMzAz0bU0SrTQTUuztASy0ix1k42BEuZmiWmJxol6yYm5BgZCAs0TW5-H6vuIb2uV2eq39qgHAA",
+            "latlong": null
+        },
+        {
+            "location": "DS BUDAYA PAMPANG",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/ds-budaya-pampang",
+            "cameraId": "4xIx1DOxSE00M7Y0MzM1MNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MUARA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-muara",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwNdZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "BENDUNGAN LEMPAKE",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/bendungan-lempake",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M7Y0MzNJS9NLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "JEMBATAN SEI DAMA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-sei-dama",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG AIR PUTIH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-air-putih",
+            "cameraId": "4xIx1Es2Mbc0MDWwSEk2MtNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-3",
+            "cameraId": "4xIx1DNOTjU2S0ozMUqxtNRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501681, 117.138733"
+        },
+        {
+            "location": "GUNUNG MANGGAH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/gunung-manggah",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzJKNNNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MASJID RAYA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-masjid-raya",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1T9JLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG KEC SAMARINDA SEBERANG 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-kec-samarinda-seberang-2",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA1ttRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG GN. KAPUR",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-gn-kapur",
+            "cameraId": "4xIx1Es2Mbc0MDVMNTK1SNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "KEJAKSAAN TINGGI KALTIM",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/kejaksaan-tinggi-kaltim",
+            "cameraId": "4xIx1DMwMLSwMDU2TzRJS9NLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG GUNUNG SEMERU 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-gunung-semeru-1",
+            "cameraId": "49Ix0UtLS0tJMzA31U1NNjDSTUtLNNU1t0gz1zUEShgZGhummVkm6iUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 4 TENGKAWANG",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-4-tengkawang",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 8",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-8",
+            "cameraId": "4xIx1EszSTJMNkpKTjS2NNZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501588, 117.137405"
+        },
+        {
+            "location": "SIMPANG KESUMA BANGSA 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-kesuma-bangsa-1",
+            "cameraId": "4xIx1DMwMLSwMDVJNDBMNdRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG LAMBUNG - GERILYA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-lambung-gerilya",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDWwSEk2MtJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG APR PRANOTO",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-apr-pranoto",
+            "cameraId": "4xIx1DNOTjU2S0oxM05LNtdLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG AIR HITAM",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-air-hitam",
+            "cameraId": "4xIx1DNOTjU2S0oxM05LNtNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN SAMARENDAH 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-samarendah-1",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1t9RLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 LOA JANAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-loa-janan",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA0NNZLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG KANTOR POS",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-kantor-pos",
+            "cameraId": "4xIx1DNOTjU2S0oxM06zMNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "FLY OVER AW.SJAH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/fly-over-aw-sjah",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "JALAN PRAMUKA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jalan-pramuka",
+            "cameraId": "49Ix0UtLS0tJMzBN0TUzNk3WTUuzTNK1SE1L0jVNSUszMTdLSzMwMNVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG RINGROAD SURYANATA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-ringroad-suryanata",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzJKNNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-1",
+            "cameraId": "4xIx1DNOTjU2S0o1STRLMtJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501766, 117.139267"
+        },
+        {
+            "location": "POROS SAMARINDA - BONTANG",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/poros-samarinda-bontang",
+            "cameraId": "4xIx1DMwMLSwMDW2SElOstRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "TPS JELAWAT",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/tps-jelawat",
+            "cameraId": "49Ix0UtLS0tJMzI31k1OMk7STUuzTNJNNkhL1jVMTkszMEw0TUsxNtNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG A YANI - GATSU",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-a-yani-gatsu",
+            "cameraId": "4xIx1DNLTjM0T01NTk0xTNVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "MAHAKAM TUGU PLN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/mahakam-tugu-pln",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDVMNTI1T9VLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN SEJATI 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-sejati-2",
+            "cameraId": "4xIx1DMwMLSwMDVJNDC0TNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "JALAN DWIKORA 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jalan-dwikora-2",
+            "cameraId": "49Ix0UtLS0tJMzBM1jVMNTbQTUtLMtFNTk1L0TU0BsoYpSWmmZmb6SUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 5",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-5",
+            "cameraId": "4xIx1EszSTJMNkpKsUg0NdZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501677, 117.138275"
+        },
+        {
+            "location": "SIMPANG MAHAKAM BC",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-mahakam-bc",
+            "cameraId": "4xIx1DOxSE00M040tDAwSNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "DEPAN BALAIKOTA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/depan-balaikota",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1t9BLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 RAWA MAKMUR - ADI SUCIPTO",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-rawa-makmur-adi-sucipto",
+            "cameraId": "4xIx1DMwMLSwMDVJNDBJTdZLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "MESRA INDAH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/mesra-indah",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DVLTjM0T7VMTjZNMdZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 7",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-7",
+            "cameraId": "4xIx1DNOTjU2S0ozMTQ3N9VLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501446, 117.137469"
+        },
+        {
+            "location": "SIMPANG PULAU ATAS",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-pulau-atas",
+            "cameraId": "4xIx1DMwMLSwMDVJNDCxTNNLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "TPS JUANDA 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/tps-juanda-2",
+            "cameraId": "4xIx1EsyMUk2TjI3MkhNStVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "PLAY GROUND FOLDER AIR HITAM",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-folder-air-hitam",
+            "cameraId": "49Ix0UtLS0tJS00y0k0yMknUTUsDskxM0ox0Tc3S0pKN0ozSDFON9JITcw0MhASaJ7Y-D9X3Ed_WKrPVb-1RDwA",
+            "latlong": null
+        },
+        {
+            "location": "DEPAN RSUD INCHE ABDOEL MOEIS",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/depan-rsud-inche-abdoel-moeis",
+            "cameraId": "49Ix0UtLS0tJSzMw1U0xMTPWTUuzSNM1NExL0U1NTUszTDE2TzMxTdJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MERANTI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-meranti",
+            "cameraId": "4xIx1DNOTjU2S0oxM05LNNBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "JEMBATAN S. PARMAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-s-parman",
+            "cameraId": "4xIx1Es2Mbc0MDVMNTI1NdFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "PASAR BAQA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/pasar-baqa",
+            "cameraId": "49Ix0UtLS0tJMzFP1DUzNjDXTUtLArIs05J0jU3T0hLNTJOB8kZ6yYm5BgZCAs0TW5-H6vuIb2uV2eq39qgHAA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG KEC SAMARINDA SEBERANG 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-kec-samarinda-seberang-1",
+            "cameraId": "4xIx1DMwMLSwMDVJNDBMNtdLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 4 AGUS SALIM",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-4-agus-salim",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DVLTjM0T7VMTjZNNtJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN SAMARENDAH 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-samarendah-3",
+            "cameraId": "4xIx1DNOTjU2S0oxM05LNNdLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 6",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-6",
+            "cameraId": "4xIx1DNOTjU2S0ozMTRPTdFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501453, 117.137522"
+        },
+        {
+            "location": "SIMPANG RAPAK INDAH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-rapak-indah",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1N9FLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MAKAHAM ARAH BUNG TOMO",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-makaham-arah-bung-tomo",
+            "cameraId": "4xIx1DMwMLSwMDW2SDFONtFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG KEC SAMARINDA SEBERANG 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-kec-samarinda-seberang-3",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA0StVLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG JALAN ANGGUR",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-jalan-anggur",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwTtJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN SAMARENDAH 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-samarendah-2",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1N9RLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG BUKUAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-bukuan",
+            "cameraId": "49Ix0UtLS0tJM7FM0zVMMTfTTUuzNNa1TEsz1zVLSkszM0sxSUu0NNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 GN. LIPAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-gn-lipan",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzJKNNVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MERDEKA 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-merdeka-3",
+            "cameraId": "49Ix0UtLS0tJS0sy1U0xTEzWTUuzNNE1M05L0U0xTUtLtQDKWRqn6iUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG SMPN 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-smpn-2",
+            "cameraId": "4xIx1Es2Mbc0MDVMNTI1S9JLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 10",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-10",
+            "cameraId": "4xIx1EszSTJMNkpKsUg0MNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501738, 117.138994"
+        },
+        {
+            "location": "SIMPANG MT HARYONO - M SAID",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-mt-haryono-m-said",
+            "cameraId": "4xIx1DMwMLSwMDVJNDBMStNLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN SEJATI 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-sejati-1",
+            "cameraId": "4xIx1DMwMLSwMDVJBFJJesmJuQYGQgLC6V3lGcUO3m3mDirCy57FAQA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG KESUMA BANGSA 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-kesuma-bangsa-2",
+            "cameraId": "4xIx1DMwMLSwMDVJNDBJM9JLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "PLAY GROUND TANAH MERAH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-tanah-merah",
+            "cameraId": "49Ix0UtLS0tJMzFO0k1NsTDSTUtLStM1ME9L1E21SEszSzQ3SzM3NtVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 AGUS SALIM",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-agus-salim",
+            "cameraId": "4xIx1Es2Mbc0MDVMNTI1M9NLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG JL JAKARTA 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-jl-jakarta-1",
+            "cameraId": "49Ix0UtLS0tJMzMy1zU2TTbUTUuzMNdNNUwz1U0xSUszNza0TLNIMdNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG SCP",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-scp",
+            "cameraId": "4xIx1Es0SEoxTDExSbMwMdVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG BANK KALTIMTARA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-bank-kaltimtara",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1N9NLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG AM RIFADIN - STADION PALARAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-am-rifadin-stadion-palaran",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA0MdRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 4 SEJATI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-4-sejati",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzJKNNZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 DIPONEGORO",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-diponegoro",
+            "cameraId": "4xIx1DNLTjM0T001TLFMttRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TOL MAHKOTA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/tol-mahkota",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA1NdZLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": "-0.537980, 117.152613"
+        },
+        {
+            "location": "TERAS SAMARINDA 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-2",
+            "cameraId": "4xIx1DNOTjU2S0o1STRLSdFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501707, 117.138943"
+        },
+        {
+            "location": "SIMPANG REMAJA - A YANI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-remaja-a-yani",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "JALAN PRAMUKA ANALYTIC",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jalan-pramuka-analytic",
+            "cameraId": "4xIx1DMwMLSwMDVKM0g2S9FLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "PLAY GROUND PERUM KORPRI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-perum-korpri",
+            "cameraId": "49Ix0UtLS0tJS0w2002xTEzVTUuzsNRNS05L1jVOTUszMjG3SEsyT9ZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MERDEKA 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-merdeka-2",
+            "cameraId": "49Ix0UtLS0tJSzay1LUwMUzVTUuzsNRNNUxL1E02S0szsTA0TzNOM9ZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG GATSU JB",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-gatsu-jb",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzKySNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG 3 REMAJA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-3-remaja",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDU2NzKyTNZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG BANTUAS",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-bantuas",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA1TtNLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN BEBAYA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-bebaya",
+            "cameraId": "49Ix0UtLS0tJMzUx0TVIsTDRTUuzSNM1NkpL1jUyB8okmhikGaYY6yUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN SEJATI 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-sejati-3",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA0NdVLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "TERAS SAMARINDA 4",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-4",
+            "cameraId": "4xIx1EszSTJMNkpKsUg0TdFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": "-0.501719, 117.138218"
+        },
+        {
+            "location": "SIMPANG MERDEKA 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-merdeka-1",
+            "cameraId": "49Ix0UtLS0tJMzcz0DVLtDDTTUtLMtNNTkpL0jUyAcqkGZumGRuY6SUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA",
+            "latlong": null
+        },
+        {
+            "location": "PLAY GROUND JL JAKARTA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-jl-jakarta",
+            "cameraId": "49Ix0UtLS0tJSzIz1DVJsrDUTUtLNNY1TEkz1DVLSUtLNjNNTjOytNBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "GROSIR SEGIRI 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-1",
+            "cameraId": "4xIx1EszSTJMNkpKsUg0NNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "PLAY GROUND ABDUL MUTHALIB",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-abdul-muthalib",
+            "cameraId": "49Ix0UtLS0tJS05L0U01NE3RTUuzSNY1MExL0020SEsztExLTTOzSNNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN EKOLOGIS",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/taman-ekologis",
+            "cameraId": "4xIx1DMwMLSwMDVJNDBJMtFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "PLAY GROUND SINDANG SARI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-sindang-sari",
+            "cameraId": "49Ix0UtLS0tJSzMx1U0zMErUTUuzSNM1MEkz0zU3SkszSrMwSDNIMtdLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MERCURE 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-mercure-3",
+            "cameraId": "49Ix0UtLS0tJS01O1k00NErUTUuzMNNNM0sz1LVIAUqYp6ammRsZ6CUn5hoYCAk0T2x9HqrvI76tVWar39qjHgA",
+            "latlong": null
+        },
+        {
+            "location": "TAMAN ODAH BAKESAH",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/odah-bakesah",
+            "cameraId": "49Ix0UtLS0tJMzBL0zUxMk3STUuzMNE1S0lL0U0zSkszNDIzTktJstBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG GUNUNG SEMERU 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-gunung-semeru-2",
+            "cameraId": "49Ix0UtLS0tJMzEz0jVPMjTRTUuzTNZNTEoz1U1NBbFNjdOMkkz1khNzDQyEBJontj4P1fcR39Yqs9Vv7VEPAA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG TEMPEKONG",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-tempekong",
+            "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1T9FLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG BRIGJEND KATAMSO 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-brigjend-katamso-1",
+            "cameraId": "49Ix0UtLS0tJM7Aw1jW1MEvUTUtLTNE1T04z1zW0BMkkp6aZm5jrJSfmGhgICTRPbH0equ8jvq1VZqvf2qMeAA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG PERUM. KEHUTANAN",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-perum-kehutanan",
+            "cameraId": "4xIx1Es2Mbc0MDVMNTK1NNdLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG JL JAKARTA 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-jl-jakarta-2",
+            "cameraId": "49Ix0UtLS0tJMzZJ1TW3MEnSTUtLNNRNTkwz1U02SEuzMDQxTjM0SdVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MERCURE 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-mercure-2",
+            "cameraId": "49Ix0UtLS0tJS0lM0jVJNDPXTUtLMtRNNU1L1E0xSUuzSEu2TDO3NNBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG SEBATIK",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-sebatik",
+            "cameraId": "4xIx1DMwMLSwMDVJNDA0MddLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "JALAN DWIKORA 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jalan-dwikora-1",
+            "cameraId": "49Ix0UtLS0tJMzSz1E1MSTTRTUtLTNNNTk5L1k0ySUtLMkk1TTNOsdBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG BRIGJEND KATAMSO 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-brigjend-katamso-3",
+            "cameraId": "49Ix0UtLS0tJMzJJ1E00MjfXTUtLStNNsUgz1DU2SUszMk00S0tOS9RLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG MERCURE 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-mercure-1",
+            "cameraId": "49Ix0UtLS0tJS7Uw1rVIsUzSTUuzNNA1N0gz1k1LSkszMQQSqeZmesmJuQYGQgLNE1ufh-r7iG9rldnqt_aoBwA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG BRIGJEND KATAMSO 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-brigjend-katamso-2",
+            "cameraId": "49Ix0UtLS0tJszA21TU3NTXVTUtLTNVNTU2z1DU1SkszTzY3T0s0MNFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "PLAY GROUND GRIYA MUKTI",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-griya-mukti",
+            "cameraId": "49Ix0UtLS0tJMzYx1zUwSTHVTUuzMNQ1TEoz1TU1SEszNUlJSjNJTNZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "GROSIR SEGIRI 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "4xIx1EszSTJMNkpKTjRONNRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        }
+    ]
+}
