@@ -776,6 +776,54 @@
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "4xIx1EszSTJMNkpKTjRONNRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
             "latlong": null
+        },
+        {
+            "location": "TANJAKAN BUKIT PINANG",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJszBO0zVOTUrVTUszTtJNNU8z0TVLTUtLTEtKTUu1tNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "TANJAKAN SURYANATA",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJMzU11TUytjDRTUtLtNBNNEsz0U01BrKTk03STMxT9JITcw0MhASE07vKM4odvNvMHVSElz2LAwA",
+            "latlong": null
+        },
+        {
+            "location": "CITRA NIAGA 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJs0g21zUwSzTTTUuzTNI1ME9L1TU0SEszMElNTktJttBLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "CITRA NIAGA 2 (NEW)",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJSzJJ1k01SjLQTUuzTNO1MExL1DU3SUszNU40T0s1MNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Depan RS SMC",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJMzGx1E0xNUvUTUuzNNU1AQroGhgB2YkWZmmmKaZ6yYm5BgZCAsLpXeUZxQ7ebeYOKsLLnsUBAA",
+            "latlong": null
+        },
+        {
+            "location": "Parkiran Teras Samarinda 1",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJM0gx1zUyMjbSTUszTNI1TEwz0TW3TEuzMDZMTTMzSdFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Parkiran Teras Samarinda 2",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJszAx1bU0NEnUBfIsdC3N0kx0zc3S0iwtDFLSUsxS9ZITcw0MhASE07vKM4odvNvMHVSElz2LAwA",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG GUNUNG SEMERU 3",
+            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
+            "cameraId": "49Ix0UtLS0tJSzNO0bU0M0vTTUuzsNQ1MkhL07WwTEtLNk5OSks1T9ZLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
         }
     ]
 }
