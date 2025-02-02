@@ -49,7 +49,7 @@
             "location": "SIMPANG LEMBUSWANA - M YAMIN",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-lembuswana-m-yamin",
             "cameraId": "4xIx1DNOTjU2S0oxM05LNtFLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.475795, 117.146283"
         },
         {
             "location": "SIMPANG 3 KEBUN AGUNG",
@@ -259,7 +259,7 @@
             "location": "SIMPANG LAMBUNG - GERILYA",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-lambung-gerilya",
             "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1E02Mbc0MDWwSEk2MtJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": "-0.488151, 117.162129"
+            "latlong": "-0.486390, 117.165064"
         },
         {
             "location": "SIMPANG APR PRANOTO",
@@ -595,7 +595,7 @@
             "location": "SIMPANG REMAJA - A YANI",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-remaja-a-yani",
             "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M040tDAwSdJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.473797, 117.164163"
         },
         {
             "location": "JALAN PRAMUKA ANALYTIC",
