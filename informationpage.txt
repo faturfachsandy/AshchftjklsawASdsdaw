@@ -1,5 +1,3 @@
 Aplikasi ini hanya project latihan dan tidak dikomersialkan untuk penggunanya.
 
-Sebagai Warga Samarinda, saya menambahkan fitur favorit saat mencari lokasi CCTV serta Latitude dan Longitude untuk mempermudah pengguna melihat berdasarkan peta yang bersumber dari openstreetmap.org
-
-somewhere somehow, stream cctv error menggunakan browser safari.
+Saya menambahkan fitur favorit saat mencari lokasi CCTV serta Latitude dan Longitude untuk mempermudah pengguna melihat berdasarkan peta yang bersumber dari openstreetmap.org
