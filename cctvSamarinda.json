@@ -70,7 +70,7 @@
             "latlong": "-0.450186, 117.153121"
         },
         {
-            "location": "CITRA NIAGA 2",
+            "location": "CITRA NIAGA 3",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/citra-niaga-2",
             "cameraId": "4xIx1DNLNkw2NzQ3NDFMS9FLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
             "latlong": "-0.503173, 117.149539"
@@ -535,7 +535,7 @@
             "location": "PLAY GROUND TANAH MERAH",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-tanah-merah",
             "cameraId": "49Ix0UtLS0tJMzFO0k1NsTDSTUtLStM1ME9L1E21SEszSzQ3SzM3NtVLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.438205, 117.221494"
         },
         {
             "location": "SIMPANG 3 AGUS SALIM",
@@ -661,7 +661,7 @@
             "location": "PLAY GROUND JL JAKARTA",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-jl-jakarta",
             "cameraId": "49Ix0UtLS0tJSzIz1DVJsrDUTUtLNNY1TEkz1DVLSUtLNjNNTjOytNBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.530461, 117.087791"
         },
         {
             "location": "GROSIR SEGIRI 1",
@@ -673,7 +673,7 @@
             "location": "PLAY GROUND ABDUL MUTHALIB",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-abdul-muthalib",
             "cameraId": "49Ix0UtLS0tJS05L0U01NE3RTUuzSNY1MExL0020SEsztExLTTOzSNNLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.495888, 117.159057"
         },
         {
             "location": "TAMAN EKOLOGIS",
@@ -685,7 +685,7 @@
             "location": "PLAY GROUND SINDANG SARI",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-sindang-sari",
             "cameraId": "49Ix0UtLS0tJSzMx1U0zMErUTUuzSNM1MEkz0zU3SkszSrMwSDNIMtdLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.560499, 117.230726"
         },
         {
             "location": "SIMPANG MERCURE 3",
@@ -697,7 +697,7 @@
             "location": "TAMAN ODAH BAKESAH",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/odah-bakesah",
             "cameraId": "49Ix0UtLS0tJMzBL0zUxMk3STUuzMNE1S0lL0U0zSkszNDIzTktJstBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.484667, 117.150835"
         },
         {
             "location": "SIMPANG GUNUNG SEMERU 2",
@@ -769,7 +769,7 @@
             "location": "PLAY GROUND GRIYA MUKTI",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/play-ground-griya-mukti",
             "cameraId": "49Ix0UtLS0tJMzYx1zUwSTHVTUuzMNQ1TEoz1TU1SEszNUlJSjNJTNZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
-            "latlong": null
+            "latlong": "-0.451639, 117.171286"
         },
         {
             "location": "GROSIR SEGIRI 2",
@@ -796,7 +796,7 @@
             "latlong": "-0.502834, 117.149983"
         },
         {
-            "location": "CITRA NIAGA 2 (NEW)",
+            "location": "CITRA NIAGA 2",
             "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJSzJJ1k01SjLQTUuzTNO1MExL1DU3SUszNU40T0s1MNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
             "latlong": "-0.502820, 117.149936"
