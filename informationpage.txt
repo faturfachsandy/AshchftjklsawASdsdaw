@@ -1,3 +1,6 @@
 Aplikasi ini hanya project latihan dan tidak dikomersialkan untuk penggunanya.
+- Favorit CCTV
+- Latitude dan Longitude CCTV
+- Map from openstreetmap.org
 
-Saya menambahkan fitur favorit saat mencari lokasi CCTV serta Latitude dan Longitude untuk mempermudah pengguna melihat berdasarkan peta yang bersumber dari openstreetmap.org
+V 1.0.2 (Zoom pada video cctv, reload halaman jika belum bisa menggunakannya)
