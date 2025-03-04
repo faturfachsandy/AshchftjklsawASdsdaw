@@ -1,0 +1,48 @@
+{
+    "portofolio" : [
+        {
+            "urlImage": "https://faturfachsandy.github.io/AshchftjklsawASdsdaw/assets/fatur/cctvviewer.png",
+            "urlApp": "https://cctv.nokanel.tech",
+            "appName": "CCTV Viewer ",
+            "desc": "Belum ada informasi"
+        },
+        {
+            "urlImage": "https://faturfachsandy.github.io/AshchftjklsawASdsdaw/assets/fatur/loginepadah.png",
+            "urlApp": "https://e-padah.nokanel.tech",
+            "appName": "E-Padah ",
+            "desc": "Belum ada informasi"
+        },
+        {
+            "urlImage": "https://faturfachsandy.github.io/AshchftjklsawASdsdaw/assets/fatur/chat_ai_1.png",
+            "urlApp": "https://nokanel.tech",
+            "appName": "Chat Gemini ",
+            "desc": "Belum ada informasi"
+        }
+    ],
+    "jurnal" : [
+        {
+            "urlImage": "https://faturfachsandy.github.io/AshchftjklsawASdsdaw/assets/fatur/logo/jcli.jpg",
+            "singkatan": "JCLI",
+            "dateJurnal": "Jan-2025",
+            "doiJurnal": "doi.org/10.21098/jcli.v4i1.257",
+            "instansiJurnal": "Bank Indonesia",
+            "titleJurnal": "Regulatory and Supervisory Technology Research: A Bibliometric Analysis"
+        },
+        {
+            "urlImage": "https://faturfachsandy.github.io/AshchftjklsawASdsdaw/assets/fatur/logo/jmifr.jpg",
+            "singkatan": "JMIFR",
+            "dateJurnal": "Jun-2024",
+            "doiJurnal": "doi.org/10.33102/jmifr.534",
+            "instansiJurnal": "Universiti Sains Islam Malaysia",
+            "titleJurnal": "How Financial Risk Affects Indonesia Sovereign Sukuk Market Development"
+        },
+        {
+            "urlImage": "https://faturfachsandy.github.io/AshchftjklsawASdsdaw/assets/fatur/logo/aijief.png",
+            "singkatan": "AIJIEF",
+            "dateJurnal": "Jun-2023",
+            "doiJurnal": "doi.org/10.20473/aijief.v6i01.44284",
+            "instansiJurnal": "Universitas Airlangga",
+            "titleJurnal": "A Bibliometric Analysis of Islamic RegTech Research Indexed by Dimension.ai"
+        }
+    ]
+}
