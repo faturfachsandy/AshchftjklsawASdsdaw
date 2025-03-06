@@ -1,6 +1,5 @@
 Aplikasi ini hanya project latihan dan tidak dikomersialkan untuk penggunanya.
-- Favorit CCTV
-- Latitude dan Longitude CCTV
-- Map from openstreetmap.org
 
 V 1.0.2 (Zoom pada video cctv, reload halaman jika belum bisa menggunakannya)
+
+Disclaimer, saya telah mengirim email untuk meminta "Izin Tertulis" dari Samagov. Namun, hingga saat ini belum ada email balasan dari Samagov.
