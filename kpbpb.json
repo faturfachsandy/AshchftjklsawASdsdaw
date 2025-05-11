@@ -1,0 +1,32 @@
+[
+    {
+        "no" : "1",
+        "nama_kawasan" : "KPBPB Sabang",
+        "lokasi" : "Kota Sabang - Aceh",
+        "luas_lahan" : "15300.00"
+    },
+    {
+        "no" : "2",
+        "nama_kawasan" : "KPBPB Bintan Wilayah Tanjung Pinang",
+        "lokasi" : "Kota Tanjung Pinang - Kepulauan Riau",
+        "luas_lahan" : "2677.00"
+    },
+    {
+        "no" : "3",
+        "nama_kawasan" : "KPBPB Bintan Wilayah Bintan",
+        "lokasi" : "Kab. Bintan - Kepulauan Riau",
+        "luas_lahan" : "61006.00"
+    },
+    {
+        "no" : "4",
+        "nama_kawasan" : "KPBPB Karimun",
+        "lokasi" : "Kab. Karimun - Kepulauan Riau",
+        "luas_lahan" : "9666.00"
+    },
+    {
+        "no" : "5",
+        "nama_kawasan" : "KPBPB Batam",
+        "lokasi" : "Kota Batam - Kepulauan Riau",
+        "luas_lahan" : "41500.00"
+    }
+]
