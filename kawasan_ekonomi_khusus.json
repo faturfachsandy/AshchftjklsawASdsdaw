@@ -1,0 +1,177 @@
+[
+  {
+    "no": "1",
+    "nama_kawasan": "KEK Arun Lhokseumawe",
+    "lokasi": "Kab. Aceh Utara - Aceh",
+    "luas_lahan_ha": "2622.48",
+    "kegiatan_utama": "Industri Energi\nIndustri Petrokimia\nIndustri Pengolahan Kelapa Sawit\nIndustri Pengolahan Kayu\nLogistik"
+  },
+  {
+    "no": "2",
+    "nama_kawasan": "KEK Sei Mangkei",
+    "lokasi": "Kab. Simalungun - Sumatera Utara",
+    "luas_lahan_ha": "2002.70",
+    "kegiatan_utama": "Industri Pengolahan Kelapa Sawit\nIndustri Pengolahan Karet\nLogistik\nPariwisata"
+  },
+  {
+    "no": "3",
+    "nama_kawasan": "KEK Tanjung Kelayang",
+    "lokasi": "Kab. Belitung - Kepulauan Bangka Belitung",
+    "luas_lahan_ha": "324.40",
+    "kegiatan_utama": "Pariwisata"
+  },
+  {
+    "no": "4",
+    "nama_kawasan": "KEK Galang Batang",
+    "lokasi": "Kab. Bintan - Kepulauan Riau",
+    "luas_lahan_ha": "2333.60",
+    "kegiatan_utama": "Industri Pengolahan Bauksit\nLogistik"
+  },
+  {
+    "no": "5",
+    "nama_kawasan": "KEK Batam Aero Technic",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "30.00",
+    "kegiatan_utama": "Industri MRO Pesawat"
+  },
+  {
+    "no": "6",
+    "nama_kawasan": "KEK Nongsa",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "166.45",
+    "kegiatan_utama": "IT Digital\nPariwisata"
+  },
+  {
+    "no": "7",
+    "nama_kawasan": "KEK Pariwisata dan Kesehatan Internasional Batam",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "47.17",
+    "kegiatan_utama": "Kegiatan Utama\n:"
+  },
+  {
+    "no": "8",
+    "nama_kawasan": "KEK Tanjung Sauh",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "840.67",
+    "kegiatan_utama": "produksi dan pengolahan\nlogistik dan distribusi\npengembangan energi"
+  },
+  {
+    "no": "9",
+    "nama_kawasan": "KEK Lido",
+    "lokasi": "Kab. Bogor - Jawa Barat",
+    "luas_lahan_ha": "1040.00",
+    "kegiatan_utama": "Pariwisata\nIndustri Kreatif"
+  },
+  {
+    "no": "10",
+    "nama_kawasan": "KEK Kendal",
+    "lokasi": "Kab. Kendal - Jawa Tengah",
+    "luas_lahan_ha": "1000.00",
+    "kegiatan_utama": "Industri Tekstil dan Busana\nIndustri Furnitur dan Alat Permainan\nIndustri F&B\nIndustri Otomotif\nIndustri Elektronik\nLogistik"
+  },
+  {
+    "no": "11",
+    "nama_kawasan": "KEK Industropolis Batang",
+    "lokasi": "Kab. Batang - Jawa Tengah",
+    "luas_lahan_ha": "2886.87",
+    "kegiatan_utama": "Industri Turunan Baja  Industri Furniture Premium  Industri kendaraan listrik  Logistik  Pariwisata"
+  },
+  {
+    "no": "12",
+    "nama_kawasan": "KEK Singhasari",
+    "lokasi": "Kab. Malang - Jawa Timur",
+    "luas_lahan_ha": "120.30",
+    "kegiatan_utama": "Pariwisata\nPengembangan Teknologi"
+  },
+  {
+    "no": "13",
+    "nama_kawasan": "KEK Gresik",
+    "lokasi": "Kab. Gresik - Jawa Timur",
+    "luas_lahan_ha": "2167.00",
+    "kegiatan_utama": "Industri Metal\nIndustri Kimia\nIndustri Elektronik\nIndustri Energi\nIndustri Pendukung & Logistik"
+  },
+  {
+    "no": "14",
+    "nama_kawasan": "KEK Tanjung Lesung",
+    "lokasi": "Kab. Pandeglang - Banten",
+    "luas_lahan_ha": "1500.00",
+    "kegiatan_utama": "Pariwisata\nPembangunan dan Pengelolaan Kawasan\nPenyediaan Infrastruktur Kawasan"
+  },
+  {
+    "no": "15",
+    "nama_kawasan": "KEK Edukasi, Teknologi, dan Kesehatan Internasional Banten",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "59.68",
+    "kegiatan_utama": "1. Riset, ekonomi digital, dan pengembangan teknologi 2. Pendidikan 3. Kesehatan 4. Industri Kreatif"
+  },
+  {
+    "no": "16",
+    "nama_kawasan": "KEK Kura Kura Bali",
+    "lokasi": "Kota Denpasar - Bali",
+    "luas_lahan_ha": "498.00",
+    "kegiatan_utama": "Pariwisata\nIndustri Kreatif"
+  },
+  {
+    "no": "17",
+    "nama_kawasan": "KEK Sanur",
+    "lokasi": "Kota Denpasar - Bali",
+    "luas_lahan_ha": "41.26",
+    "kegiatan_utama": "Kesehatan\nAkomodasi\nEthomedicinal Botanic Garden\nWelness Center"
+  },
+  {
+    "no": "18",
+    "nama_kawasan": "KEK Mandalika",
+    "lokasi": "Kab. Lombok Tengah - Nusa Tenggara Barat",
+    "luas_lahan_ha": "1035.67",
+    "kegiatan_utama": "Pariwisata"
+  },
+  {
+    "no": "19",
+    "nama_kawasan": "KEK Setangga",
+    "lokasi": "Kab. Tanah Bumbu - Kalimantan Selatan",
+    "luas_lahan_ha": "668.30",
+    "kegiatan_utama": "produksi dan pengolahan\nlogistik dan distribusi\npengembangan energi"
+  },
+  {
+    "no": "20",
+    "nama_kawasan": "KEK Maloy Batuta Trans Kalimantan",
+    "lokasi": "Kab. Kutai Timur - Kalimantan Timur",
+    "luas_lahan_ha": "557.34",
+    "kegiatan_utama": "Industri Pengolahan Kelapa Sawit\nIndustri Pengolahan Kayu\nIndustri Energi\nLogistik"
+  },
+  {
+    "no": "21",
+    "nama_kawasan": "KEK Likupang",
+    "lokasi": "Kab. Minahasa Utara - Sulawesi Utara",
+    "luas_lahan_ha": "197.40",
+    "kegiatan_utama": "Pariwisata"
+  },
+  {
+    "no": "22",
+    "nama_kawasan": "KEK Bitung",
+    "lokasi": "Kota Bitung - Sulawesi Utara",
+    "luas_lahan_ha": "534.00",
+    "kegiatan_utama": "Industri Pengolahan Kelapa\nIndustri Pengolahan Perikanan\nIndustri Farmasi\nLogistik"
+  },
+  {
+    "no": "23",
+    "nama_kawasan": "KEK Palu",
+    "lokasi": "Kota Palu - Sulawesi Tengah",
+    "luas_lahan_ha": "1500.00",
+    "kegiatan_utama": "Industri Pengolahan Nikel dan Biji Besi\nIndustri Pengolahan Kakao\nIndustri Rumput Laut\nIndustri Pengolahan Rotan\nLogistik"
+  },
+  {
+    "no": "24",
+    "nama_kawasan": "KEK Morotai",
+    "lokasi": "Kab. Pulau Morotai - Maluku Utara",
+    "luas_lahan_ha": "1101.76",
+    "kegiatan_utama": "Industri Pengolahan Perikanan\nPariwisata\nLogistik"
+  },
+  {
+    "no": "25",
+    "nama_kawasan": "KEK Sorong",
+    "lokasi": "Kab. Sorong - Papua Barat",
+    "luas_lahan_ha": "523.70",
+    "kegiatan_utama": "Industri Pengolahan Nikel\nIndustri Pengolahan Kelapa Sawit\nIndustri Hasil Hutan dan Perkebunan (Sagu)\nLogistik"
+  }
+]

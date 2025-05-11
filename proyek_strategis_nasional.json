@@ -1,0 +1,2459 @@
+[
+  {
+    "no": "1",
+    "nama_proyek": "Pembangunan Jaringan Irigasi Daerah Irigasi Jambo Aye Kanan",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Aceh",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "2",
+    "nama_proyek": "Jalan Tol Langsa - Lhokseumawe - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Aceh",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "3",
+    "nama_proyek": "Bendungan Rukoh dan Bangunan Pengarah Bendungan Rukoh",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Aceh",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "4",
+    "nama_proyek": "Pembangunan Jaringan Irigasi Daerah Irigasi Lhok Guci",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Aceh",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "5",
+    "nama_proyek": "Bendungan Keureuto",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Aceh",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "6",
+    "nama_proyek": "Jalan Tol Lhokseumawe - Sigli - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Aceh",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "7",
+    "nama_proyek": "Jalan Tol Sigli - Banda Aceh - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Aceh",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "8",
+    "nama_proyek": "Jalan Tol Rantau Prapat - Kisaran - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "9",
+    "nama_proyek": "Jalan Tol Medan - Binjai - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "10",
+    "nama_proyek": "Kawasan Industri Kuala Tanjung",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "11",
+    "nama_proyek": "Pengembangan Pelabuhan Hub Internasional Kuala Tanjung",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "12",
+    "nama_proyek": "Jalan Tol Medan - Binjai - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "13",
+    "nama_proyek": "Jalan Tol Kisaran - Tebing Tinggi - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "14",
+    "nama_proyek": "Kereta Api Rantau Prapat - Kota Pinang",
+    "sektor": "Sektor Kereta",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "15",
+    "nama_proyek": "Jalan Tol Tebing Tinggi - Pematang Siantar - Prapat - Tarutung - Sibolga - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "16",
+    "nama_proyek": "Kawasan Industri Kuala Tanjung",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "17",
+    "nama_proyek": "Jalan Tol Bukittinggi - Padang Panjang - Lubuk Alung - Padang - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "18",
+    "nama_proyek": "Jalan Tol Rengat - Pekanbaru - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "19",
+    "nama_proyek": "Jalan Tol Pekanbaru - Kandis - Dumai - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "20",
+    "nama_proyek": "Pembangunan Pelabuhan Terminal Peti Kemas Muaro Jambi",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Jambi",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "21",
+    "nama_proyek": "Jalan Tol Simpang Indralaya - Muara Enim - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "22",
+    "nama_proyek": "Jalan Tol Kayu Agung - Palembang - Betung",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "23",
+    "nama_proyek": "Pembangunan Jaringan Irigasi Daerah Irigasi Lempuing",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "24",
+    "nama_proyek": "Jalan Tol Muara Enim - Lahat - Lubuk Linggau - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "25",
+    "nama_proyek": "Kawasan Industri Tanjung Enim",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "26",
+    "nama_proyek": "Pembangunan Pelabuhan Palembang Baru/New Palembang",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "27",
+    "nama_proyek": "Light Rail Transit (LRT) Provinsi Sumatera Selatan (Metro Palembang)",
+    "sektor": "Sektor Kereta",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "28",
+    "nama_proyek": "Bendungan Tiga Dihaji",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "29",
+    "nama_proyek": "Pembangunan Jaringan Irigasi Daerah Irigasi Lematang",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "30",
+    "nama_proyek": "Gasifikasi Batu Bara di Tanjung Enim",
+    "sektor": "Sektor Energi",
+    "lokasi": "Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "31",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Benteng - Kobema (Bengkulu Tengah, Kota Bengkulu, dan Seluma)",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Bengkulu",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "32",
+    "nama_proyek": "Kawasan Industri Tanggamus",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Lampung",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "33",
+    "nama_proyek": "Kawasan Terintegrasi Bakauheni",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Lampung",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "34",
+    "nama_proyek": "Bendungan Way Sekampung",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Lampung",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "35",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Kota Bandar Lampung",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Lampung",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "36",
+    "nama_proyek": "Bendungan Marga Tiga",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Lampung",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "37",
+    "nama_proyek": "Kawasan Industri Pulau Ladi",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Kepulauan Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "38",
+    "nama_proyek": "Pengembangan Bandar Udara Raja Haji Abdullah Tanjung Balai Karimun",
+    "sektor": "Sektor Bandar Udara",
+    "lokasi": "Kepulauan Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "39",
+    "nama_proyek": "Kawasan Industri Tanjung Sauh",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Kepulauan Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "40",
+    "nama_proyek": "Jalan Tol Sunter - Pulo Gebang - bagian dari 6 ruas tol DKI Jakarta",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "41",
+    "nama_proyek": "Pembangunan Akses Pelabuhan Tanjung Priok Timur Baru/New Priok Eastern Access (NPEA)",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "42",
+    "nama_proyek": "Jalan Tol Kemayoran - Kampung Melayu - bagian dari 6 ruas tol DKI Jakarta",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "43",
+    "nama_proyek": "Jakarta Sewerage System (JSS)",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "44",
+    "nama_proyek": "Pembangunan Rumah Susun",
+    "sektor": "Sektor Perumahan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "45",
+    "nama_proyek": "Jakarta Mass Rapid Transit (MRT) North - South (Bundaran HI - Kota - Ancol Barat)",
+    "sektor": "Sektor Kereta",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "46",
+    "nama_proyek": "Jalan Tol Ulujami - Tanah Abang - bagian dari 6 ruas tol DKI Jakarta",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "47",
+    "nama_proyek": "Jalan Tol Duri Pulo - Kampung Melayu - bagian dari 6 ruas tol DKI Jakarta",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "48",
+    "nama_proyek": "Jalan Tol Semanan - Sunter - bagian dari 6 ruas tol DKI Jakarta",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "49",
+    "nama_proyek": "Jalan Tol Pasar Minggu - Casablanca - bagian dari 6 ruas tol DKI Jakarta",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "50",
+    "nama_proyek": "Light Rail Transit (LRT) Jakarta International Stadium - Kelapa Gading dan Velodrome - Manggarai",
+    "sektor": "Sektor Kereta",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "51",
+    "nama_proyek": "Jalan Tol Sunter - Pulo Gebang - bagian dari 6 ruas tol DKI Jakarta",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "52",
+    "nama_proyek": "Jalan Tol Cimanggis - Cibitung",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "53",
+    "nama_proyek": "Pembangunan Pelabuhan Patimban",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "54",
+    "nama_proyek": "Bendungan Ciawi",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "55",
+    "nama_proyek": "Jalan Tol Ciawi - Sukabumi - Ciranjang - Padalarang",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "56",
+    "nama_proyek": "Bendungan Leuwikeris",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "57",
+    "nama_proyek": "Jalan Tol Akses Pelabuhan Patimban",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "58",
+    "nama_proyek": "Jalan Tol Bogor Ring Road (termasuk Caringin - Salabenda)",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "59",
+    "nama_proyek": "Jalan Tol Depok - Antasari (termasuk Bojonggede - Salabenda)",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "60",
+    "nama_proyek": "Upgrading Kilang Eksisting (RDMP) dan Industri Petrokimia Balongan",
+    "sektor": "Sektor Energi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "61",
+    "nama_proyek": "Pembangunan Kampus Universitas Islam Internasional Indonesia",
+    "sektor": "Sektor Pendidikan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "62",
+    "nama_proyek": "Rehabilitasi Jaringan Irigasi Daerah Irigasi Rentang",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "63",
+    "nama_proyek": "Bendungan Sadawarna",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "64",
+    "nama_proyek": "Jalan Tol Cileunyi - Sumedang - Dawuan",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "65",
+    "nama_proyek": "Bendungan Sukamahi",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "66",
+    "nama_proyek": "Bendungan Cipanas",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "67",
+    "nama_proyek": "Bendungan Leuwikeris",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "68",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Jatigede",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "69",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Wosusokas",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "70",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Semarang Barat",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "71",
+    "nama_proyek": "Jalan Tol Semarang - Demak",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "72",
+    "nama_proyek": "Bendungan Jragung",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "73",
+    "nama_proyek": "Rehabilitasi Jaringan Irigasi Daerah Irigasi Glapan",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "74",
+    "nama_proyek": "Bendungan Randugunting",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "75",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Semarang Barat",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "76",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Wosusokas",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "77",
+    "nama_proyek": "Bendungan Pidekso",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "78",
+    "nama_proyek": "Bendungan Jlantah",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "79",
+    "nama_proyek": "Bendungan Tugu",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "80",
+    "nama_proyek": "Bendungan Tukul",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "81",
+    "nama_proyek": "Bendungan Bendo",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "82",
+    "nama_proyek": "Bendungan Semantok",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "83",
+    "nama_proyek": "Pembangunan Fly Over dari dan Menuju Terminal Teluk Lamong",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "84",
+    "nama_proyek": "Jalan Tol Krian - Legundi - Bunder - Manyar",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "85",
+    "nama_proyek": "Jalan Tol Pasuruan - Probolinggo",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "86",
+    "nama_proyek": "Kilang Minyak Tuban (Ekspansi)",
+    "sektor": "Sektor Energi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "87",
+    "nama_proyek": "Bendungan Bagong",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "88",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Umbulan",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "89",
+    "nama_proyek": "Jalan Tol Ngawi - Kertosono - Kediri",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "90",
+    "nama_proyek": "Jalan Tol Pandaan - Malang",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "91",
+    "nama_proyek": "Jalan Tol Ngawi - Kertosono - Kediri",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "92",
+    "nama_proyek": "Jalan Tol Pandaan - Malang",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "93",
+    "nama_proyek": "Bandar Udara Kediri",
+    "sektor": "Sektor Bandar Udara",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "94",
+    "nama_proyek": "Jalan Tol Probolinggo - Banyuwangi (Target Penyelesaian Tahun 2024 Ruas Jalan Tol Probolinggo - Besuki)",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "95",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Umbulan",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "96",
+    "nama_proyek": "Kawasan Industri Wilmar Serang",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Banten",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "97",
+    "nama_proyek": "Bendungan Karian",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Banten",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "98",
+    "nama_proyek": "Jalan Tol Serang - Panimbang",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Banten",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "99",
+    "nama_proyek": "Sarana dan Prasarana Air Baku Karian",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Banten",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "100",
+    "nama_proyek": "Jalan Tol Serpong - Balaraja",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Banten",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "101",
+    "nama_proyek": "Pelabuhan Sanur - Nusa Ceningan/Lembongan",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Bali",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "102",
+    "nama_proyek": "Bendungan Tamblang",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Bali",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "103",
+    "nama_proyek": "Sistem Penyediaan Air Baku Bendungan Sidan",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Bali",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "104",
+    "nama_proyek": "Pengembangan Pelabuhan Benoa (Bali Maritime Tourism Hub)",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Bali",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "105",
+    "nama_proyek": "Bendungan Sidan",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Bali",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "106",
+    "nama_proyek": "Pembangunan Jalan Tol Gilimanuk - Negara - Pekutatan - Soka - Mengwi",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Bali",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "107",
+    "nama_proyek": "Bendungan Meninting",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "108",
+    "nama_proyek": "Pengembangan Bandar Udara Internasional Lombok Praya",
+    "sektor": "Sektor Bandar Udara",
+    "lokasi": "Nusa Tenggara Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "109",
+    "nama_proyek": "Bendungan Beringin Sila",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "110",
+    "nama_proyek": "Bendungan Bintang Bano",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "111",
+    "nama_proyek": "Bendungan Bintang Bano",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "112",
+    "nama_proyek": "Pengembangan Pelabuhan Kupang",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Nusa Tenggara Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "113",
+    "nama_proyek": "Bendungan Temef",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "114",
+    "nama_proyek": "Bendungan Napun Gete",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "115",
+    "nama_proyek": "Bandar Udara Komodo - Labuan Bajo",
+    "sektor": "Sektor Bandar Udara",
+    "lokasi": "Nusa Tenggara Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "116",
+    "nama_proyek": "Terminal Multipurpose Labuan Bajo",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Nusa Tenggara Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "117",
+    "nama_proyek": "Bendungan Mbay",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "118",
+    "nama_proyek": "Bendungan Manikin",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Nusa Tenggara Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "119",
+    "nama_proyek": "Kawasan Industri Landak",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Kalimantan Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "120",
+    "nama_proyek": "Kawasan Industri Ketapang",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Kalimantan Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "121",
+    "nama_proyek": "Pelabuhan Terminal Kijing",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Kalimantan Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "122",
+    "nama_proyek": "Bendungan Tapin",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Kalimantan Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "123",
+    "nama_proyek": "Kawasan Industri Jorong",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Kalimantan Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "124",
+    "nama_proyek": "Bendungan Marangkayu",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Kalimantan Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "125",
+    "nama_proyek": "Pengembangan Lapangan Gendalo, Maha, Gandang, Gehem, dan Bangka (Indonesia Deepwater Development Project/IDD)",
+    "sektor": "Sektor Energi",
+    "lokasi": "Kalimantan Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "126",
+    "nama_proyek": "Infrastruktur Kereta Api Logistik di Kalimantan Timur",
+    "sektor": "Sektor Kereta",
+    "lokasi": "Kalimantan Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "127",
+    "nama_proyek": "Pelabuhan KEK Maloy",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Kalimantan Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "128",
+    "nama_proyek": "Jalan Tol Balikpapan - Samarinda",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Kalimantan Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "129",
+    "nama_proyek": "Bendungan Sepaku Semoi",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Kalimantan Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "130",
+    "nama_proyek": "Pembangunan Fasilitas Coal to Methanol di Kutai Timur",
+    "sektor": "Sektor Energi",
+    "lokasi": "Kalimantan Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "131",
+    "nama_proyek": "Kawasan Industri Tanah Kuning",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Kalimantan Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "132",
+    "nama_proyek": "Bendungan Kuwil Kawangkoan",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "133",
+    "nama_proyek": "Bendungan Lolak",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "134",
+    "nama_proyek": "Pelabuhan Likupang",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Sulawesi Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "135",
+    "nama_proyek": "Pengembangan Pelabuhan Hub Internasional Bitung",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Sulawesi Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "136",
+    "nama_proyek": "Jalan Tol Manado - Bitung",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sulawesi Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "137",
+    "nama_proyek": "Rehabilitasi Jaringan Irigasi Daerah Irigasi Gumbasa",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "138",
+    "nama_proyek": "Kawasan Industri Morowali",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "139",
+    "nama_proyek": "Pengembangan Pelabuhan Teluk Palu",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Sulawesi Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "140",
+    "nama_proyek": "Bendungan Pamukkulu",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "141",
+    "nama_proyek": "Bendungan Pamukkulu",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "142",
+    "nama_proyek": "Pembangunan Bendung dan Jaringan Irigasi Daerah Irigasi Baliase",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "143",
+    "nama_proyek": "Bendungan Karalloe",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "144",
+    "nama_proyek": "Kereta Api Makassar - Parepare (Tahap I dari Pengembangan Jalur Lintas Barat Sulawesi Bagian Selatan)",
+    "sektor": "Sektor Kereta",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "145",
+    "nama_proyek": "Kawasan Industri Bantaeng",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "146",
+    "nama_proyek": "Kawasan Industri Takalar",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "147",
+    "nama_proyek": "Bendungan Passeloreng",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "148",
+    "nama_proyek": "Bendungan Ameroro",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Tenggara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "149",
+    "nama_proyek": "Kawasan Industri Motui",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Tenggara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "150",
+    "nama_proyek": "Bendungan Ladongi",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Tenggara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "151",
+    "nama_proyek": "Kawasan Industri Kendari",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Tenggara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "152",
+    "nama_proyek": "Kawasan Industri Indonesia Konawe Industrial Park (IKIP)",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Tenggara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "153",
+    "nama_proyek": "Kawasan Industri Indonesia Pomalaa Industry Park",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Tenggara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "154",
+    "nama_proyek": "Kawasan Industri Konawe",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Sulawesi Tenggara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "155",
+    "nama_proyek": "Bendungan Bulango Ulu",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Gorontalo",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "156",
+    "nama_proyek": "Bendungan Budong-Budong",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Sulawesi Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "157",
+    "nama_proyek": "Bendungan Way Apu",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Maluku",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "158",
+    "nama_proyek": "Pengembangan Lapangan Abadi Wilayah Kerja Masela",
+    "sektor": "Sektor Energi",
+    "lokasi": "Maluku",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "159",
+    "nama_proyek": "Pembangunan Pelabuhan Ambon Baru/New Ambon",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Maluku",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "160",
+    "nama_proyek": "Kawasan Industri Weda Bay",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Maluku Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "161",
+    "nama_proyek": "Kawasan Industri Pulau Obi",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Maluku Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "162",
+    "nama_proyek": "Pembangunan Bandar Udara Nabire Baru",
+    "sektor": "Sektor Bandar Udara",
+    "lokasi": "Papua",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "163",
+    "nama_proyek": "Proyek Tangguh LNG Train 3",
+    "sektor": "Sektor Energi",
+    "lokasi": "Papua Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "164",
+    "nama_proyek": "Pembangunan Kelapa Dalam dan Industri Turunannya",
+    "sektor": "Sektor Perkebunan",
+    "lokasi": "Papua Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "165",
+    "nama_proyek": "Pengembangan Lapangan Ubadari, CCUS, dan Compresion (UCC Project) di Teluk Bintuni",
+    "sektor": "",
+    "lokasi": "Papua Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "166",
+    "nama_proyek": "Kawasan Industri Teluk Bintuni dan Pengembangan Industri Metanol, Amonia, dan Pemanfaatan Karbon dari hasil CCUS/CCS di Teluk Bintuni",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Papua Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "167",
+    "nama_proyek": "Kawasan Industri Pupuk Fakfak",
+    "sektor": "Sektor Kawasan",
+    "lokasi": "Papua Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "168",
+    "nama_proyek": "Pembangunan Bandar Udara Siboru Fak Fak",
+    "sektor": "Sektor Bandar Udara",
+    "lokasi": "Papua Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "169",
+    "nama_proyek": "Pengembangan Pelabuhan Sorong",
+    "sektor": "Sektor Pelabuhan",
+    "lokasi": "Papua Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "170",
+    "nama_proyek": "Penetapan KEK Pariwisata Singhasari",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "171",
+    "nama_proyek": "Pengembangan Bromo Vulcania Park",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "172",
+    "nama_proyek": "Spam Regional Malang Raya kapasitas Kab. Malang, Kota Malang, Kota Batu (Sumber air baku dari : Mata air Ngepoh, mata air Wendit, mata air Banyuning, mata air Ngesong, mata air Gemulo dan waduk Karangkates)",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "173",
+    "nama_proyek": "Pelebaran jalan pada exit tol seksi 5 Pandaan - Malang",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "174",
+    "nama_proyek": "Pembangunan Jalan Tol Malang - Kepanjen",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "175",
+    "nama_proyek": "Revitalisasi pipa SPAM Kab-Kota Probolinggo",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "176",
+    "nama_proyek": "Pembangunan Jalan Tol Probolinggo - Lumajang",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "177",
+    "nama_proyek": "Program Pengembangan Minapolitan Madura dan Kepulauan",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "178",
+    "nama_proyek": "Program Agropolitan Madura dan Kepulauan",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "179",
+    "nama_proyek": "Spam Regional Lintas Madura Bangkalan, Sampang, Pamekasan, Sumenep (Sumber air baku dari : Mata Air Klebetan, Sungai Budur, waduk Nipah, waduk Klampis, waduk Blega, sungai Pasean, sungai Pasongsongan, sungai Semajid dan sungai Pragaan)",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "180",
+    "nama_proyek": "Peningkatan Kapasitas Pelabuhan Kalianget",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "181",
+    "nama_proyek": "Pembangunan RSU Tipe C Gubug, Kab. Grobogan",
+    "sektor": "",
+    "lokasi": "Kedungsepur",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "182",
+    "nama_proyek": "Pembangunan sentra IKM Logam Rekayasa dan Kopi, Kab. Kudus",
+    "sektor": "",
+    "lokasi": "Wanarakuti",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "183",
+    "nama_proyek": "Pembangunan Jalan Tol Ruas Tol Bawen-Yogya, Kab. Magelang",
+    "sektor": "",
+    "lokasi": "Purwomanggung",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "184",
+    "nama_proyek": "Pembangunan Anjungan Cerdas Candi Borobudur, Kab. Magelang",
+    "sektor": "",
+    "lokasi": "Purwomanggung",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "185",
+    "nama_proyek": "Pembangunan RSUD Tipe C, Kota Magelang",
+    "sektor": "",
+    "lokasi": "Purwomanggung",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "186",
+    "nama_proyek": "Pembangunan RSUD Rujukan Kanker, Kota Magelang",
+    "sektor": "",
+    "lokasi": "Purwomanggung",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "187",
+    "nama_proyek": "Pembangunan RSU KRT Setjonegoro, Kab. Wonosobo",
+    "sektor": "",
+    "lokasi": "Purwomanggung",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "188",
+    "nama_proyek": "Pembangunan Jalan Tol Ruas Tol Solo-Yogya, Kota Solo",
+    "sektor": "",
+    "lokasi": "Subosukowonosraten",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "189",
+    "nama_proyek": "Pembiayaan SPAM Regional Wososukas, Kab. Wonogiri",
+    "sektor": "",
+    "lokasi": "Subosukowonosraten",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "190",
+    "nama_proyek": "Pengembangan Kawasan Pusat Furniture Indonesia, Kab. Sukoharjo",
+    "sektor": "",
+    "lokasi": "Subosukowonosraten",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "191",
+    "nama_proyek": "Pembangunan Jalur Rel Kereta Api Kawasan industri Brebes - Pelabuhan Tegal, Kab. Brebes",
+    "sektor": "",
+    "lokasi": "Bregasmalang",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "192",
+    "nama_proyek": "Pembangunan Pipa Gas Transmisi Cirebon - Semarang, Kab. Brebes",
+    "sektor": "",
+    "lokasi": "Bregasmalang",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "193",
+    "nama_proyek": "Pembangunan Kawasan Energi Terpadu, Kab. Pemalang",
+    "sektor": "",
+    "lokasi": "Bregasmalang",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "194",
+    "nama_proyek": "Pembangunan RSUD Ketanggungan, Kab. Brebes",
+    "sektor": "",
+    "lokasi": "Bregasmalang",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "195",
+    "nama_proyek": "Pengembangan SPAM Bandara JBS, Kab. Purbalingga",
+    "sektor": "",
+    "lokasi": "Barlingmascakeb",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "196",
+    "nama_proyek": "Reaktivasi Kereta Purwokerto Wonosobo melalui Purbalingga, Kab. Purbalingga",
+    "sektor": "",
+    "lokasi": "Barlingmascakeb",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "197",
+    "nama_proyek": "Percepatan Pembangunan Pertamina RDMP RU IV, Kab. Cilacap",
+    "sektor": "",
+    "lokasi": "Barlingmascakeb",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "198",
+    "nama_proyek": "Pembangunan RSUD Kesesi, Kab. Pekalongan",
+    "sektor": "",
+    "lokasi": "Barlingmascakeb",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "199",
+    "nama_proyek": "Pengembangan SPAM Regional Petanglong, Kab. Pekalongan",
+    "sektor": "",
+    "lokasi": "Petanglong",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "200",
+    "nama_proyek": "Pengembangan Infrastruktur Penyediaan LNG/Gas Berkelanjutan Jawa Tengah, Kab. Batang",
+    "sektor": "",
+    "lokasi": "Petanglong",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "201",
+    "nama_proyek": "Pembangunan RSUD dengan pelayanan unggulan Ibu dan Anak, Kota Pekalongan",
+    "sektor": "",
+    "lokasi": "Petanglong",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "202",
+    "nama_proyek": "Pembangunan Tol Pejagan0Cilacap, Kab. Brebes, Kab. Cilacap dan Kab, Banyumas",
+    "sektor": "",
+    "lokasi": "Lintas Kawasan",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "203",
+    "nama_proyek": "Pembangunan Jalan Tol Ruas Tol Demak-Kudus-Pati-Rembang",
+    "sektor": "",
+    "lokasi": "Lintas Kawasan",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "204",
+    "nama_proyek": "Pembangunan SPAM Regional Dadi Muria, Kab. Kudus, Kab. Pati, Kab. Jepara dan Kab. Grobogan",
+    "sektor": "",
+    "lokasi": "Lintas Kawasan",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "205",
+    "nama_proyek": "Reaktivasi Rel Kereta Api Semarang - Demak - Kudus - Pati Rembang, Kota Semarang, Kab. Demak, Kab. Kudus, Kab. Pati dan Kab. Rembang",
+    "sektor": "",
+    "lokasi": "Lintas Kawasan",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "206",
+    "nama_proyek": "Reaktivasi pembangunan jalur KA Semarang- Ambarawa-Magelang-Borobudur, Kota Semarang, Kab. Semarang, Kab. Magelang dan Kota Magelang",
+    "sektor": "",
+    "lokasi": "Lintas Kawasan",
+    "regulasi": "PERPRES NO. 79 TAHUN 2019"
+  },
+  {
+    "no": "207",
+    "nama_proyek": "Program Dewi Cemara",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "208",
+    "nama_proyek": "Program Dewi Cemara",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "209",
+    "nama_proyek": "Program Dewi Cemara",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "210",
+    "nama_proyek": "Program Dewi Cemara",
+    "sektor": "",
+    "lokasi": "Selingkar Wilis & Lintas Selatan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "211",
+    "nama_proyek": "Pengembangan Bandar Udara Nasawiru",
+    "sektor": "",
+    "lokasi": "Kab. Pangandaran",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "212",
+    "nama_proyek": "Program Pengembangan Minapolitan Selingkar Ijen",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "213",
+    "nama_proyek": "Program Agropolitan Selingkar Ijen",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "214",
+    "nama_proyek": "Pengembangan Industri Gula Bondowoso",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "215",
+    "nama_proyek": "Pembangunan Pariwisata Geopark Ijen Bondowoso",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "216",
+    "nama_proyek": "Pembangunan Sistem Penyediaan Air Minum Regional Jember Bondowoso",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "217",
+    "nama_proyek": "Jalan Tol Pekanbaru - Bangkinang - Payakumbuh - Bukittinggi - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Barat dan Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "218",
+    "nama_proyek": "Jalan Tol Betung (Sp. Sekayu) - Tempino - Jambi - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jambi dan Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "219",
+    "nama_proyek": "Fasilitasi Pengembangan Kawasan Industri Banyuwangi (Wongsorejo)",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "220",
+    "nama_proyek": "Rencana Pengembangan Pariwisata dan Marina",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "221",
+    "nama_proyek": "Jalan Tol Lubuk Linggau - Curup - Bengkulu - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Sumatera Selatan dan Bengkulu",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "222",
+    "nama_proyek": "Agrowisata Gunung Gambir Sumberbaru",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "223",
+    "nama_proyek": "Jalan Tol Cengkareng - Batu Ceper - Kunciran",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Daerah Khusus Ibukota (DKI) Jakarta dan Banten",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "224",
+    "nama_proyek": "Jalan Tol Cinere - Jagorawi",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "225",
+    "nama_proyek": "Jalan Tol Cibitung - Cilincing",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "226",
+    "nama_proyek": "Pengembangan Kopi Arabika dan Sarana Pengolahan kopi",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "227",
+    "nama_proyek": "Peningkatan fasilitas wisata Kawah Blue Fire (cable car)",
+    "sektor": "",
+    "lokasi": "Selingkar Ijen",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "228",
+    "nama_proyek": "Program Pengembangan Minapolitan BTS",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "229",
+    "nama_proyek": "Program Agropolitan BTS",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "230",
+    "nama_proyek": "Pembangunan Kereta Gantung",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "231",
+    "nama_proyek": "Jalan Tol Jakarta - Cikampek II Sisi Selatan",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "232",
+    "nama_proyek": "Jalan Tol Yogyakarta - Bawen",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Daerah Istimewa (D.I.) Yogyakarta dan Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "233",
+    "nama_proyek": "Pengembangan RSUD Probolinggo",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "234",
+    "nama_proyek": "Jalan Tol Solo - Yogyakarta - Kulon Progo",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Tengah dan D.I. Yogyakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "235",
+    "nama_proyek": "Jalan Tol Gedebage - Tasikmalaya - Cilacap (Target Penyelesaian Tahun 2024 Ruas Jalan Tol Gedebage - Tasikmalaya)",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jawa Barat dan Jawa Tengah",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "236",
+    "nama_proyek": "Pengembangan Pelabuhan Probolinggo (pembangunan dermaga III dan IV, pengembangan kompleks pergudangan serta pariwisata)",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "237",
+    "nama_proyek": "Penataan dan Pengembangan kawasan minapolitan",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "238",
+    "nama_proyek": "Pengembangan Kereta Gantung Puncak Pananjakan - Kawah Bromo",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "239",
+    "nama_proyek": "Pengembangan Kawasan Pariwisata Air Terjun Madakaripura",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "240",
+    "nama_proyek": "Pembangunan TPA Regional Kab/Kota Probolinggo",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "241",
+    "nama_proyek": "Pembangunan SPAM Regional Probolinggo-Lumajang",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "242",
+    "nama_proyek": "Pengembangan Kawasan Pariwisata Senduro-Candipuro",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "243",
+    "nama_proyek": "Pengembangan Agropolitan Senduro-Candipuro- Pasrujambe-Gucialit",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "244",
+    "nama_proyek": "Bandar Udara Baru Yogyakarta - Kulon Progo",
+    "sektor": "Sektor Bandar Udara",
+    "lokasi": "D.I. Yogyakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "245",
+    "nama_proyek": "Penetapan KEK Pariwisata Singhasari",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "246",
+    "nama_proyek": "Pengembangan Bromo Vulcania Park",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "247",
+    "nama_proyek": "Spam Regional Malang Raya kapasitas Kab. Malang, Kota Malang, Kota Batu (Sumber air baku dari : Mata air Ngepoh, mata air Wendit, mata air Banyuning, mata air Ngesong, mata air Gemulo dan waduk Karangkates)",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "248",
+    "nama_proyek": "Kereta Api Akses Bandar Udara Baru Yogyakarta - Kulon Progo",
+    "sektor": "Sektor Kereta",
+    "lokasi": "D.I. Yogyakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "249",
+    "nama_proyek": "Double Track Jawa Selatan",
+    "sektor": "Sektor Kereta",
+    "lokasi": "Jawa Barat, Jawa Tengah, D.I. Yogyakarta, dan Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "250",
+    "nama_proyek": "Penyelenggaraan Kereta Api Ringan/Light Rail Transit (LRT) Terintegrasi di Wilayah Jakarta, Bogor, Depok, dan Bekasi",
+    "sektor": "Sektor Kereta",
+    "lokasi": "DKI Jakarta dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "251",
+    "nama_proyek": "Pelebaran jalan pada exit tol seksi 5 Pandaan - Malang",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "252",
+    "nama_proyek": "Pembangunan Jalan Tol Malang - Kepanjen",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "253",
+    "nama_proyek": "Mass Rapid Transit (MRT) Jakarta East - West Phase I",
+    "sektor": "Sektor Kereta",
+    "lokasi": "DKI Jakarta, Banten, dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "254",
+    "nama_proyek": "Revitalisasi pipa SPAM Kab-Kota Probolinggo",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "255",
+    "nama_proyek": "Pembangunan Jalan Tol Probolinggo - Lumajang",
+    "sektor": "",
+    "lokasi": "Bromo-Tengger-Semeru",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "256",
+    "nama_proyek": "Program Pengembangan Minapolitan Madura dan Kepulauan",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "257",
+    "nama_proyek": "Program Revitalisasi Industri Gula Nasional dan Hilirisasi Industri Kelapa Sawit",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "258",
+    "nama_proyek": "Program Agropolitan Madura dan Kepulauan",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "259",
+    "nama_proyek": "Spam Regional Lintas Madura Bangkalan, Sampang, Pamekasan, Sumenep (Sumber air baku dari : Mata Air Klebetan, Sungai Budur, waduk Nipah, waduk Klampis, waduk Blega, sungai Pasean, sungai Pasongsongan, sungai Semajid dan sungai Pragaan)",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "260",
+    "nama_proyek": "Peningkatan Kapasitas Pelabuhan Kalianget",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "261",
+    "nama_proyek": "\nProgram Ketenagalistrikan:\n\nPembangkit Listrik Tenaga Air (PLTA) Sungai Mentarang",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "262",
+    "nama_proyek": "Program Pengembangan Kawasan Perbatasan",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "263",
+    "nama_proyek": "Program Pengembangan Kawasan Strategis Pariwisata Nasional",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "264",
+    "nama_proyek": "Pembangunan Bantuan Rumah Swadaya",
+    "sektor": "Sektor Perumahan",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "265",
+    "nama_proyek": "Pengembangan RSUD Moch. Noer",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "266",
+    "nama_proyek": "Pengembangan RSUD Ketapang Tahap III",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "267",
+    "nama_proyek": "Pengembangan Kawasan Pariwisata Kepulauan Gili Mandangin",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "268",
+    "nama_proyek": "Pembangunan Pabrik Gula beserta Pengembangan Budidaya Tebu",
+    "sektor": "",
+    "lokasi": "Madura & Kepulauan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "269",
+    "nama_proyek": "Pembangunan Kawasan Ekonomi untuk Pendidikan dan Kesehatan",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "270",
+    "nama_proyek": "Pengembangan KI JIIPE Gresik",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "271",
+    "nama_proyek": "Program Pengembangan Minapolitan GKS+",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "272",
+    "nama_proyek": "Program Agropolitan GKS+",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "273",
+    "nama_proyek": "Program Dewi Cemara",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "274",
+    "nama_proyek": "Pembangunan Pelabuhan Tuban",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "275",
+    "nama_proyek": "LRT Surabaya",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "276",
+    "nama_proyek": "Pembangunan Industri Terpadu dengan Pelabuhan Tj Bulupandan",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "277",
+    "nama_proyek": "Madura Industrial Seaport City",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "278",
+    "nama_proyek": "Pembangunan Indonesia Islamic Science Park (IISP)",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "279",
+    "nama_proyek": "Pembangunan Jalan Tol Menuju Pelabuhan Tj. Bulupandan",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "280",
+    "nama_proyek": "Pembangunan Pelabuhan Tj. Bulupandan",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "281",
+    "nama_proyek": "Peningkatan Jalan Nasional Kolektor Primer / Daendels (Lohgung (KM 93,175) - BTS. Kota Gresik",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "282",
+    "nama_proyek": "Percepatan pembangunan Jalan Lingkar Utara Lamongan",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "283",
+    "nama_proyek": "Pembangunan Limbah B3 di Kab Mojokerto",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "284",
+    "nama_proyek": "Pembangunan TPA Regional dan PLTSa di Kab Mojokerto",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "285",
+    "nama_proyek": "Pembukaan Akses Tol ke Pasar Induk Puspa Agro",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "286",
+    "nama_proyek": "Pembangunan PLTSa di Kab. Sidoarjo",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "287",
+    "nama_proyek": "Pengembangan KI Tuban (pengembangan KIG)",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "288",
+    "nama_proyek": "Pembangunan RKI Jombang",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "289",
+    "nama_proyek": "Pengembangan KI Sidorjo Timur (SIERIE dan safe and lock)",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "290",
+    "nama_proyek": "Pengembangan KI Brondong-Paciran",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "291",
+    "nama_proyek": "Spam Regional Pantura kapasitas Kab. Tuban, Kab. Bojonegoro, Kab. Lamongan (Sumber air baku dari Sungai Bengawan Solo)",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "292",
+    "nama_proyek": "Double Track Pasar Turi - Surabaya Kota - Wonokromo",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "293",
+    "nama_proyek": "Rencana Akses Kereta Api Menuju Bandara Juanda",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "294",
+    "nama_proyek": "Pengembangan jalan tol Bandara Juanda-Tanjung Perak (SERR)",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "295",
+    "nama_proyek": "Pengembangan jalan tol Waru (Aloha) - Wonokromo - Tanjung Perak",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "296",
+    "nama_proyek": "Pembangunan Jalan Tol Gempol - Mojokerto",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "297",
+    "nama_proyek": "Pembangunan Jalan Tol Ngawi-Bojonegoro-Tuban-Lamongan-Manyar-Bunder",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "298",
+    "nama_proyek": "Transportasi Publik di Gerbangkertosusila (Surabaya Regional Railways Line)",
+    "sektor": "",
+    "lokasi": "Gerbangkertasusila +",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {
+    "no": "299",
+    "nama_proyek": "Program Pembangunan Smelter",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "300",
+    "nama_proyek": "Pembangunan Pembangkit Listrik Tenaga Panas Bumi (PLTP) Gunung Papandayan",
+    "sektor": "",
+    "lokasi": "Kab. Garut",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "301",
+    "nama_proyek": "Pembangunan Pembangkit Listrik Tenaga Panas Bumi (PLTP) Gunung Galunggung",
+    "sektor": "",
+    "lokasi": "Kab. Tasikmalaya, Kota Tasikmalaya, Kab. Garut",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "302",
+    "nama_proyek": "Pembangunan Pembangkit Listrik Tenaga Bayu (PLTB) Kab. Garut",
+    "sektor": "",
+    "lokasi": "Kab. Garut",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "303",
+    "nama_proyek": "Pembangunan Kab. Sukabumi Pembangkit Listrik Tenaga Bayu (PLTB)",
+    "sektor": "",
+    "lokasi": "Kab. Sukabumi",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "304",
+    "nama_proyek": "Pengembangan Pembangkit Listrik Tenaga Air (PLTA) Matenggeng Pumped Storage",
+    "sektor": "",
+    "lokasi": "Kab. Kuningan, Kab. Ciamis",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "305",
+    "nama_proyek": "Pengembangan Pembangkit Listrik Tenaga Surya (PLTS) Terapung Cirata",
+    "sektor": "",
+    "lokasi": "Kab. Purwakarta, Kab.Bandung Barat, Kab. Cianjur",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "306",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Ir. H. Djuanda/Jatiluhur II",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Barat dan DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "307",
+    "nama_proyek": "Pengembangan Pump Storage Upper Cisokan",
+    "sektor": "",
+    "lokasi": "Kab. Bandung Barat, Kab. Cianjur",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "308",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Kamijoro (Bantul, Kulon Progo)",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "D.I. Yogyakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "309",
+    "nama_proyek": "Pembangunan Pembangkit Listrik Tenaga Panas Bum (PLTP) Cisolok Cisukarame",
+    "sektor": "",
+    "lokasi": "Cisolok-Sukarame, Kab. Sukabumi",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "310",
+    "nama_proyek": "Pembangunan Bandar Udara Cikembar",
+    "sektor": "",
+    "lokasi": "Kab. Sukabumi",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "311",
+    "nama_proyek": "Reaktivasi Rel KA Banjar-Cijulang",
+    "sektor": "",
+    "lokasi": "Kab. Pangandaran",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "312",
+    "nama_proyek": "Reaktivasi Jaringan Rel KA Cibatu-Cikajang",
+    "sektor": "",
+    "lokasi": "Kab. Garut",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "313",
+    "nama_proyek": "Konstruksi Tangki Penyimpanan LPG",
+    "sektor": "Sektor Energi",
+    "lokasi": "Indonesia Bagian Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "314",
+    "nama_proyek": "Peningkatan Jaringan Rel KA Barat Cipatat-Padalarang",
+    "sektor": "",
+    "lokasi": "Kab. Bandung",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "315",
+    "nama_proyek": "Pembangunan Jalan Tol Ciawi-Sukabumi-Ciranjang-Padalarang Segmen 2 (Sukabumi-Padalarang)",
+    "sektor": "",
+    "lokasi": "Kab. Sukabumi, Kab. Cianjur, Kab. Bandung Barat",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "316",
+    "nama_proyek": "Pembangunan Transmisi Pipa Gas (Ruas Cirebon - Semarang dan Ruas KEK Sei Mangkei - Dumai)",
+    "sektor": "Sektor Energi",
+    "lokasi": "Jawa Barat - Jawa Tengah dan Sumatera Utara - Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "317",
+    "nama_proyek": "Pembangunan Jalan Tol Ciawi-Sukabumi-Ciranjang Padalarang Segmen 1 (Ciawi-Sukabumi)",
+    "sektor": "",
+    "lokasi": "Kab. Bogor - Kab. Sukabumi",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "318",
+    "nama_proyek": "Percepatan Pembangunan Technopark",
+    "sektor": "Sektor Teknologi",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "319",
+    "nama_proyek": "Pengembangan Drone Male Kombatan (Male Unmaned Combat Aerial Vehicle)",
+    "sektor": "Sektor Teknologi",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "320",
+    "nama_proyek": "Pengembangan Industri Garam",
+    "sektor": "Sektor Teknologi",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "321",
+    "nama_proyek": "Pembangunan Jalan Tol Gedebage-Tasikmalaya-Cilacap Segmen 2 (Tasikmalaya-Cilacap)",
+    "sektor": "",
+    "lokasi": "Kab. Pangandaran, Kab. Cilacap, Kab.Tasikmalaya, Kab. Ciamis",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "322",
+    "nama_proyek": "Pembangunan , Jalan Tol Kab. Garut, Gedebage- Tasikmalaya Cilacap Segmen 1 (GedebageTasikmalaYa)",
+    "sektor": "",
+    "lokasi": "Kab. Bandung, Kab. Garut, Kab. Tasikmalaya",
+    "regulasi": "PERPRES NO. 87 TAHUN 2021"
+  },
+  {
+    "no": "323",
+    "nama_proyek": "Bendungan Karangnongko",
+    "sektor": "Sektor Bendungan dan Irigasi",
+    "lokasi": "Jawa Tengah dan Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "324",
+    "nama_proyek": "Kereta Api Logistik Lahat - Muara Enim - Prabumulih - Tarahan/Lampung dan Prabumulih - Kertapati/Palembang",
+    "sektor": "Sektor Kereta",
+    "lokasi": "Sumatera Selatan dan Lampung",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "325",
+    "nama_proyek": "High Speed Railway Jakarta - Bandung",
+    "sektor": "Sektor Kereta",
+    "lokasi": "DKI Jakarta dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "326",
+    "nama_proyek": "Kereta Api Jakarta - Surabaya",
+    "sektor": "Sektor Kereta",
+    "lokasi": "DKI Jakarta, Jawa Barat, Jawa Tengah, dan Jawa Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "327",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Jatiluhur",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Jawa Barat dan DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "328",
+    "nama_proyek": "Program Pengembangan Superhub",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "329",
+    "nama_proyek": "Program Pengembangan Kawasan Ekonomi Khusus",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "330",
+    "nama_proyek": "Program Pengembangan Kawasan Eco-City",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "331",
+    "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Karian - Serpong",
+    "sektor": "Sektor Air Bersih dan Sanitasi",
+    "lokasi": "Banten dan DKI Jakarta",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "332",
+    "nama_proyek": "Jalan Tol Bekasi - Cawang - Kampung Melayu",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "DKI Jakarta dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "333",
+    "nama_proyek": "Jalan Tol Serpong - Cinere",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Banten dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "334",
+    "nama_proyek": "Tanggul Pantai",
+    "sektor": "Sektor Tanggul Pantai",
+    "lokasi": "DKI Jakarta, Jawa Barat, dan Banten",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "335",
+    "nama_proyek": "Upgrading Kilang-Kilang Eksisting/Refinery Development Master Plan (RDMP)",
+    "sektor": "Sektor Energi",
+    "lokasi": "Jawa Tengah, Kalimantan Timur, Riau, dan Sumatera Selatan",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "336",
+    "nama_proyek": "Konstruksi Tangki Penyimpanan BBM",
+    "sektor": "Sektor Energi",
+    "lokasi": "Indonesia Bagian Timur",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "337",
+    "nama_proyek": "Pembangunan Jaringan Gas Kota",
+    "sektor": "Sektor Energi",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "338",
+    "nama_proyek": "Jalan Tol Dumai - Sp. Sigambal - Rantau Prapat - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Riau dan Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "339",
+    "nama_proyek": "Pembangunan Bahan Bakar Hijau (Green Diesel Bio Refinery Revamping dan Hidrogenasi CPO RU IV Cilacap, Green Refinery RU III Plaju, Katalis Merah Putih Pupuk Kujang Cikampek)",
+    "sektor": "Sektor Energi",
+    "lokasi": "Jawa Tengah, Sumatera Selatan, dan Jawa Barat",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "340",
+    "nama_proyek": "Jalan Tol Jambi - Rengat - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Jambi dan Riau",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "341",
+    "nama_proyek": "Proyek Satelit Multifungsi",
+    "sektor": "Sektor Teknologi",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "342",
+    "nama_proyek": "Pengembangan Teknologi Produksi IVO dan Bensin Sawit dengan Katalis Merah Putih yang Terintegrasi dengan Kebun Rakyat",
+    "sektor": "Sektor Teknologi",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "343",
+    "nama_proyek": "Palapa Ring Integrasi",
+    "sektor": "Sektor Teknologi",
+    "lokasi": "Nasional",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "344",
+    "nama_proyek": "Jalan Tol Binjai - Langsa - bagian dari Trans Sumatera",
+    "sektor": "Sektor Jalan dan Jembatan",
+    "lokasi": "Aceh dan Sumatera Utara",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROYEK)"
+  },
+  {
+    "no": "345",
+    "nama_proyek": "Program Pemerataan Ekonomi",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "346",
+    "nama_proyek": "Program Pengembangan Jalan Akses Exit Toll",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "347",
+    "nama_proyek": "Program Pembangunan Instalasi Pengolah Sampah menjadi Energi Listrik (PSEL)",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "348",
+    "nama_proyek": "Program Peningkatan Penyediaan Pangan Nasional/Food Estate",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "349",
+    "nama_proyek": "Program Percepatan Pengembangan Wilayah yang ditetapkan dalam Peraturan Presiden mengenai Percepatan Pembangunan Ekonomi Kawasan dan Peraturan mengenai Ibu Kota Negara",
+    "sektor": "",
+    "lokasi": "-",
+    "regulasi": "PERMENKO NO. 7 TAHUN 2023 (PROGRAM)"
+  },
+  {
+    "no": "350",
+    "nama_proyek": "Pembangunan Jalan Tol Kertosono-Kediri-Tulungagung",
+    "sektor": "",
+    "lokasi": "Selingkar Wilis & Lintas Selatan",
+    "regulasi": "PERPRES NO. 80 TAHUN 2020"
+  },
+  {},
+  {
+    "no": ""
+  },
+  {
+    "no": "Data tidak ditemukan"
+  }
+]

@@ -1,0 +1,1108 @@
+[
+  {
+    "no": "1",
+    "nama_kawasan": "Kawasan Industri Aceh - Ladong",
+    "pengelola_kawasan": "PT. Pembangunan Aceh",
+    "lokasi": "Kab. Aceh Besar - Aceh",
+    "luas_lahan_ha": "65.60"
+  },
+  {
+    "no": "2",
+    "nama_kawasan": "Medanstar Industrial Estate",
+    "pengelola_kawasan": "PT. Tamoratama Prakarsa",
+    "lokasi": "Kab. Deli Serdang - Sumatera Utara",
+    "luas_lahan_ha": "103.00"
+  },
+  {
+    "no": "3",
+    "nama_kawasan": "Kawasan Industri Medan",
+    "pengelola_kawasan": "PT. Kawasan Industri Medan (Persero)",
+    "lokasi": "Kab. Deli Serdang - Sumatera Utara",
+    "luas_lahan_ha": "1000.00"
+  },
+  {
+    "no": "4",
+    "nama_kawasan": "Kawasan Industri Sei Mangkei",
+    "pengelola_kawasan": "PT. Perkebunan Nusantara III / PT. Kawasan Industri Nusantara",
+    "lokasi": "Kab. Simalungun - Sumatera Utara",
+    "luas_lahan_ha": "1933.80"
+  },
+  {
+    "no": "5",
+    "nama_kawasan": "Padang Industrial Park",
+    "pengelola_kawasan": "PT. Padang Industrial Park",
+    "lokasi": "Kab. Padang Pariaman - Sumatera Barat",
+    "luas_lahan_ha": "145.00"
+  },
+  {
+    "no": "6",
+    "nama_kawasan": "Kawasan industri Tanjung Buton",
+    "pengelola_kawasan": "PT. Kawasan Industri Tanjung Buton",
+    "lokasi": "Kab. Siak - Riau",
+    "luas_lahan_ha": "57.00"
+  },
+  {
+    "no": "7",
+    "nama_kawasan": "Kawasan Industri Tenayan",
+    "pengelola_kawasan": "PT. Sarana Pembangunan Pekanbaru",
+    "lokasi": "Kota Pekanbaru - Riau",
+    "luas_lahan_ha": "266.00"
+  },
+  {
+    "no": "8",
+    "nama_kawasan": "Gerindo Eco Industrial Park",
+    "pengelola_kawasan": "PT. Gerindo Investa International",
+    "lokasi": "Kota Pekanbaru - Riau",
+    "luas_lahan_ha": "105.02"
+  },
+  {
+    "no": "9",
+    "nama_kawasan": "Kawasan Industri Dumai",
+    "pengelola_kawasan": "PT. Kawasan Industri Dumai",
+    "lokasi": "Kota Dumai - Riau",
+    "luas_lahan_ha": "316.74"
+  },
+  {
+    "no": "10",
+    "nama_kawasan": "Kawasan Industri Tanjung Enim",
+    "pengelola_kawasan": "PT. Bukit Asam",
+    "lokasi": "Kab. Muara Enim - Sumatera Selatan",
+    "luas_lahan_ha": "585.00"
+  },
+  {
+    "no": "11",
+    "nama_kawasan": "KI Waylaga Bizpark",
+    "pengelola_kawasan": "PT. Griya Lestari Jaya",
+    "lokasi": "Kota Bandar Lampung - Lampung",
+    "luas_lahan_ha": "50.70"
+  },
+  {
+    "no": "12",
+    "nama_kawasan": "Kawasan Industri Mitra Propindo Lestari",
+    "pengelola_kawasan": "PT. Mitra Propindo Lestari",
+    "lokasi": "Kab. Belitung - Kepulauan Bangka Belitung",
+    "luas_lahan_ha": "270.00"
+  },
+  {
+    "no": "13",
+    "nama_kawasan": "Kawasan Industri Sadai",
+    "pengelola_kawasan": "PT. Ration Bangka Abadi",
+    "lokasi": "Kab. Bangka Selatan - Kepulauan Bangka Belitung",
+    "luas_lahan_ha": "400.00"
+  },
+  {
+    "no": "14",
+    "nama_kawasan": "Bintan Inti Industrial Estate",
+    "pengelola_kawasan": "PT. Bintan Inti Industrial Estate",
+    "lokasi": "Kab. Bintan - Kepulauan Riau",
+    "luas_lahan_ha": "325.00"
+  },
+  {
+    "no": "15",
+    "nama_kawasan": "Karimun Maritime Industrial Complex",
+    "pengelola_kawasan": "PT Karimun Indojaya Cakrawala",
+    "lokasi": "Kab. Karimun - Kepulauan Riau",
+    "luas_lahan_ha": "225.00"
+  },
+  {
+    "no": "16",
+    "nama_kawasan": "Batamindo Industrial Park",
+    "pengelola_kawasan": "PT. Batamindo Investment Cakrawala",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "318.00"
+  },
+  {
+    "no": "17",
+    "nama_kawasan": "Kawasan Industri Tunas Prima",
+    "pengelola_kawasan": "PT. Prima Propertindo Utama",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "75.00"
+  },
+  {
+    "no": "18",
+    "nama_kawasan": "Panbil Industrial Estate",
+    "pengelola_kawasan": "PT. Nusatama Properta Panbil",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "19",
+    "nama_kawasan": "Puri Industrial Park 2000",
+    "pengelola_kawasan": "PT. Teluk Pantaian Indah",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "24.00"
+  },
+  {
+    "no": "20",
+    "nama_kawasan": "Kawasan Industri Tanjung Sauh",
+    "pengelola_kawasan": "PT. Batamraya Sukses Perkasa",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "552.67"
+  },
+  {
+    "no": "21",
+    "nama_kawasan": "Hijrah Industrial Park",
+    "pengelola_kawasan": "PT. Hijrah Karya Mandiri",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "6.40"
+  },
+  {
+    "no": "22",
+    "nama_kawasan": "Kawasan Indusri Terpadu Kabil (KITK)",
+    "pengelola_kawasan": "PT. Kabil Indonusa Estate",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "100.75"
+  },
+  {
+    "no": "23",
+    "nama_kawasan": "Union Industrial Park",
+    "pengelola_kawasan": "PT. Union Batam Abadi",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "20.60"
+  },
+  {
+    "no": "24",
+    "nama_kawasan": "Batamindo Industrial Park",
+    "pengelola_kawasan": "PT. Batamindo Investment Cakrawala",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "318.00"
+  },
+  {
+    "no": "25",
+    "nama_kawasan": "Indah Industrial Park",
+    "pengelola_kawasan": "PT. Griya Lestari Jaya",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "16.00"
+  },
+  {
+    "no": "26",
+    "nama_kawasan": "Puri Industrial Park 2000",
+    "pengelola_kawasan": "PT. Teluk Pantaian Indah",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "24.00"
+  },
+  {
+    "no": "27",
+    "nama_kawasan": "Bintang Industrial Park",
+    "pengelola_kawasan": "PT. Bintang Propertindo",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "75.00"
+  },
+  {
+    "no": "28",
+    "nama_kawasan": "Kawasan Industri Tanjung Sauh",
+    "pengelola_kawasan": "PT. Batamraya Sukses Perkasa",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "552.67"
+  },
+  {
+    "no": "29",
+    "nama_kawasan": "Panbil Industrial Estate",
+    "pengelola_kawasan": "PT. Nusatama Properta Panbil",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "30",
+    "nama_kawasan": "Tunas Industrial Estate",
+    "pengelola_kawasan": "PT. Tritunas Bangun Perkasa",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "64.00"
+  },
+  {
+    "no": "31",
+    "nama_kawasan": "Indah Industrial Park",
+    "pengelola_kawasan": "PT. Griya Lestari Jaya",
+    "lokasi": "Kota Batam - Kepulauan Riau",
+    "luas_lahan_ha": "16.00"
+  },
+  {
+    "no": "32",
+    "nama_kawasan": "Kawasan Berikat Nusantara Cakung",
+    "pengelola_kawasan": "PT. Kawasan Berikat Nusantara",
+    "lokasi": "Kota Adm. Jakarta Utara - DKI Jakarta",
+    "luas_lahan_ha": "586.00"
+  },
+  {
+    "no": "33",
+    "nama_kawasan": "Jakarta Industrial Estate Pulogadung",
+    "pengelola_kawasan": "PT. Jakarta Industrial Estate Pulogadung",
+    "lokasi": "Kota Adm. Jakarta Timur - DKI Jakarta",
+    "luas_lahan_ha": "433.00"
+  },
+  {
+    "no": "34",
+    "nama_kawasan": "Kawasan Industri Sentul",
+    "pengelola_kawasan": "PT. Bogorindo Cemerlang",
+    "lokasi": "Kab. Bogor - Jawa Barat",
+    "luas_lahan_ha": "104.00"
+  },
+  {
+    "no": "35",
+    "nama_kawasan": "Cibinong Center Industrial Estate",
+    "pengelola_kawasan": "PT. Cibinong Center Industrial Estate",
+    "lokasi": "Kab. Bogor - Jawa Barat",
+    "luas_lahan_ha": "96.68"
+  },
+  {
+    "no": "36",
+    "nama_kawasan": "KI Cikembar II",
+    "pengelola_kawasan": "PT. Cijambe Indah",
+    "lokasi": "Kab. Sukabumi - Jawa Barat",
+    "luas_lahan_ha": "161.97"
+  },
+  {
+    "no": "37",
+    "nama_kawasan": "Kawasan Industri Cikembar",
+    "pengelola_kawasan": "PT. Bogorindo Cemerlang",
+    "lokasi": "Kab. Sukabumi - Jawa Barat",
+    "luas_lahan_ha": "220.00"
+  },
+  {
+    "no": "38",
+    "nama_kawasan": "Kertajati Industrial Estate Majalengka",
+    "pengelola_kawasan": "PT. Dwipapuri Abadi",
+    "lokasi": "Kab. Majalengka - Jawa Barat",
+    "luas_lahan_ha": "400.00"
+  },
+  {
+    "no": "39",
+    "nama_kawasan": "Kawasan Industri Rancaekek",
+    "pengelola_kawasan": "PT. Dwipapuri Abadi",
+    "lokasi": "Kab. Sumedang - Jawa Barat",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "40",
+    "nama_kawasan": "KI Losarang",
+    "pengelola_kawasan": "PT. Wiratama Indramayu Perkasa",
+    "lokasi": "Kab. Indramayu - Jawa Barat",
+    "luas_lahan_ha": "552.34"
+  },
+  {
+    "no": "41",
+    "nama_kawasan": "Suryacipta Subang Smartpolitan",
+    "pengelola_kawasan": "PT. Bumi Aman Sejahtera",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "154.50"
+  },
+  {
+    "no": "42",
+    "nama_kawasan": "KI Patimban",
+    "pengelola_kawasan": "PT. Wahana Mitra Semesta",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "298.30"
+  },
+  {
+    "no": "43",
+    "nama_kawasan": "Kawasan Industri Intijaya Subang Industri",
+    "pengelola_kawasan": "PT. Intijaya Subang Industri",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "50.12"
+  },
+  {
+    "no": "44",
+    "nama_kawasan": "Kawasan industri Taifa",
+    "pengelola_kawasan": "PT. Taifa Jaya",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "97.70"
+  },
+  {
+    "no": "45",
+    "nama_kawasan": "Suryacipta Subang Smartpolitan",
+    "pengelola_kawasan": "PT. Semesta Cipta Internasional",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "400.00"
+  },
+  {
+    "no": "46",
+    "nama_kawasan": "Suryacipta Subang Smartpolitan",
+    "pengelola_kawasan": "PT. Jasa Semesta Utama",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "156.70"
+  },
+  {
+    "no": "47",
+    "nama_kawasan": "Suryacipta Subang Smartpolitan",
+    "pengelola_kawasan": "PT. Aneka Bumi Cipta",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "108.70"
+  },
+  {
+    "no": "48",
+    "nama_kawasan": "Suryacipta Subang Smartpolitan",
+    "pengelola_kawasan": "PT. Surya Siti Indotama",
+    "lokasi": "Kab. Subang - Jawa Barat",
+    "luas_lahan_ha": "94.30"
+  },
+  {
+    "no": "49",
+    "nama_kawasan": "Kawasan Industri Jatiluhur Industrial Smart City",
+    "pengelola_kawasan": "PT. Multi Optima Sentosa",
+    "lokasi": "Kab. Purwakarta - Jawa Barat",
+    "luas_lahan_ha": "1211.00"
+  },
+  {
+    "no": "50",
+    "nama_kawasan": "Kawasan Industri SKI",
+    "pengelola_kawasan": "PT. Sumber Karja International",
+    "lokasi": "Kab. Purwakarta - Jawa Barat",
+    "luas_lahan_ha": "60.00"
+  },
+  {
+    "no": "61",
+    "nama_kawasan": "Karawang New Industrial City",
+    "pengelola_kawasan": "PT. CFLD Karawang New Industry City Development",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "204.80"
+  },
+  {
+    "no": "62",
+    "nama_kawasan": "Taman Niaga Karawang Prima / GT Tech Park",
+    "pengelola_kawasan": "PT. Bintang Puspita Dwikarya",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "400.00"
+  },
+  {
+    "no": "63",
+    "nama_kawasan": "Kawasan Industri Artha Industrial Hill",
+    "pengelola_kawasan": "PT. Karawang Cipta Persada",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "180.00"
+  },
+  {
+    "no": "64",
+    "nama_kawasan": "Kawasan Industri Artha Industrial Hill",
+    "pengelola_kawasan": "PT. Daya Kencanasia",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "135.12"
+  },
+  {
+    "no": "65",
+    "nama_kawasan": "Mandalapratama Permai Industrial Estate",
+    "pengelola_kawasan": "PT. Mandalapratama Permai",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "153.11"
+  },
+  {
+    "no": "66",
+    "nama_kawasan": "Suryacipta IE",
+    "pengelola_kawasan": "PT. Suryacipta Swadaya",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "1398.00"
+  },
+  {
+    "no": "67",
+    "nama_kawasan": "Karawang International Industrial City",
+    "pengelola_kawasan": "PT. Harapan Anang Bakri & Sons",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "100.00"
+  },
+  {
+    "no": "68",
+    "nama_kawasan": "Karawang International Industrial City",
+    "pengelola_kawasan": "PT. Karawang Tatabina IE",
+    "lokasi": "Kab. Karawang - Jawa Barat",
+    "luas_lahan_ha": "621.74"
+  },
+  {
+    "no": "69",
+    "nama_kawasan": "Greenland International Industrial Center (GIIC)",
+    "pengelola_kawasan": "PT. Puradelta Lestari, Tbk",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "1366.00"
+  },
+  {
+    "no": "70",
+    "nama_kawasan": "Hacaca Business Park",
+    "pengelola_kawasan": "PT. Hacaca Jaya Proprti",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "82686.00"
+  },
+  {
+    "no": "71",
+    "nama_kawasan": "East Jakarta Industrial Park",
+    "pengelola_kawasan": "PT. East Jakarta Industrial Park",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "331.00"
+  },
+  {
+    "no": "72",
+    "nama_kawasan": "Kawasan Industri Marunda Center",
+    "pengelola_kawasan": "PT. Multikarya Hasilprima",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "600.00"
+  },
+  {
+    "no": "73",
+    "nama_kawasan": "Kawasan Industri Terpadu Indonesia China",
+    "pengelola_kawasan": "PT. Kawasan Industri Terpadu Indonesia China",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "205.00"
+  },
+  {
+    "no": "74",
+    "nama_kawasan": "Bekasi International Industrial Estate",
+    "pengelola_kawasan": "PT. Hyundai Inti Development",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "75",
+    "nama_kawasan": "Kawasan Industri Jababeka",
+    "pengelola_kawasan": "PT. Gerbang Teknologi Cikarang / PT. Jababeka Infrastruktur",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "1594.97"
+  },
+  {
+    "no": "76",
+    "nama_kawasan": "MM2100 Industrial Town BFIE",
+    "pengelola_kawasan": "PT. Bekasi Fajar Industrial Estate",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "77",
+    "nama_kawasan": "Kawasan Industri Marunda Center",
+    "pengelola_kawasan": "PT. Tegar Primajaya",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "600.00"
+  },
+  {
+    "no": "78",
+    "nama_kawasan": "MM2100 Industrial Town BFIE",
+    "pengelola_kawasan": "PT. Bekasi Matra Industrial Estate",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "500.00"
+  },
+  {
+    "no": "79",
+    "nama_kawasan": "MM2100 Industrial Town BFIE",
+    "pengelola_kawasan": "PT. Bekasi Surya Pratama",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "129.00"
+  },
+  {
+    "no": "80",
+    "nama_kawasan": "Kawasan Industri Lippo Cikarang",
+    "pengelola_kawasan": "PT. Lippo Cikarang Tbk",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "1645.00"
+  },
+  {
+    "no": "81",
+    "nama_kawasan": "MM2100 Industrial Town BFIE",
+    "pengelola_kawasan": "PT. Bekasi Matra Industrial Estate",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "500.00"
+  },
+  {
+    "no": "82",
+    "nama_kawasan": "MM2100 Industrial Town BFIE",
+    "pengelola_kawasan": "PT. Bekasi Fajar Industrial Estate",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "83",
+    "nama_kawasan": "Bekasi International Industrial Estate",
+    "pengelola_kawasan": "PT. Hyundai Inti Development",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "84",
+    "nama_kawasan": "Kawasan Industri Terpadu Indonesia China",
+    "pengelola_kawasan": "PT. Kawasan Industri Terpadu Indonesia China",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "205.00"
+  },
+  {
+    "no": "85",
+    "nama_kawasan": "Central Cikarang Industrial Park (CCIP)",
+    "pengelola_kawasan": "PT. Chandra Purnaland",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "74.31"
+  },
+  {
+    "no": "86",
+    "nama_kawasan": "Hacaca Business Park",
+    "pengelola_kawasan": "PT. Hacaca Jaya Proprti",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "82686.00"
+  },
+  {
+    "no": "87",
+    "nama_kawasan": "Greenland International Industrial Center (GIIC)",
+    "pengelola_kawasan": "PT. Puradelta Lestari, Tbk",
+    "lokasi": "Kab. Bekasi - Jawa Barat",
+    "luas_lahan_ha": "1366.00"
+  },
+  {
+    "no": "88",
+    "nama_kawasan": "Jawa Tengah Land Industrial Park Sayung",
+    "pengelola_kawasan": "PT. Jawa Tengah Lahan Andalan",
+    "lokasi": "Kab. Demak - Jawa Tengah",
+    "luas_lahan_ha": "300.00"
+  },
+  {
+    "no": "89",
+    "nama_kawasan": "Kawasan Industri Kendal",
+    "pengelola_kawasan": "PT. Kawasan Industri Kendal",
+    "lokasi": "Kab. Kendal - Jawa Tengah",
+    "luas_lahan_ha": "1000.00"
+  },
+  {
+    "no": "90",
+    "nama_kawasan": "Batang Industrial Park",
+    "pengelola_kawasan": "PT. Perkebunan dan Industri Segajung",
+    "lokasi": "Kab. Batang - Jawa Tengah",
+    "luas_lahan_ha": "287.00"
+  },
+  {
+    "no": "91",
+    "nama_kawasan": "Kawasan Industri Terpadu Batang",
+    "pengelola_kawasan": "PT. Kawasan Industri Terpadu Batang",
+    "lokasi": "Kab. Batang - Jawa Tengah",
+    "luas_lahan_ha": "3100.00"
+  },
+  {
+    "no": "92",
+    "nama_kawasan": "Kawasan Industri Candi",
+    "pengelola_kawasan": "PT. Indo Permata Usahatama",
+    "lokasi": "Kota Semarang - Jawa Tengah",
+    "luas_lahan_ha": "350.00"
+  },
+  {
+    "no": "93",
+    "nama_kawasan": "Kawasan Industri Candi",
+    "pengelola_kawasan": "PT. Dibiya Jaya Makmur",
+    "lokasi": "Kota Semarang - Jawa Tengah",
+    "luas_lahan_ha": "300.00"
+  },
+  {
+    "no": "94",
+    "nama_kawasan": "BSB Industrial Park",
+    "pengelola_kawasan": "PT. Karyadeka Alam Lestari",
+    "lokasi": "Kota Semarang - Jawa Tengah",
+    "luas_lahan_ha": "75.69"
+  },
+  {
+    "no": "95",
+    "nama_kawasan": "KI Aviarna",
+    "pengelola_kawasan": "PT. Bumi Raya Perkasa Nusantara",
+    "lokasi": "Kota Semarang - Jawa Tengah",
+    "luas_lahan_ha": "64.50"
+  },
+  {
+    "no": "96",
+    "nama_kawasan": "Kawasan Industri Cipta",
+    "pengelola_kawasan": "PT. Sinar Centra Cipta",
+    "lokasi": "Kota Semarang - Jawa Tengah",
+    "luas_lahan_ha": "95.00"
+  },
+  {
+    "no": "97",
+    "nama_kawasan": "Kawasan Industri Terboyo Semarang",
+    "pengelola_kawasan": "PT. Merdeka Wirastama",
+    "lokasi": "Kota Semarang - Jawa Tengah",
+    "luas_lahan_ha": "135.50"
+  },
+  {
+    "no": "98",
+    "nama_kawasan": "Kawasan Industri Wijayakusuma",
+    "pengelola_kawasan": "PT. Kawasan Industri Wijayakusuma (Persero)",
+    "lokasi": "Kota Semarang - Jawa Tengah",
+    "luas_lahan_ha": "75.30"
+  },
+  {
+    "no": "99",
+    "nama_kawasan": "Kawasan Industri Piyungan Creative Economy Park",
+    "pengelola_kawasan": "PT. Yogyakarta Isti Parama",
+    "lokasi": "Kab. Bantul - Daerah Istimewa Yogyakarta",
+    "luas_lahan_ha": "85.00"
+  },
+  {
+    "no": "100",
+    "nama_kawasan": "Pasuruan Industrial Estate Rembang",
+    "pengelola_kawasan": "PT. Surabaya Industrial Estate Rungkut",
+    "lokasi": "Kab. Pasuruan - Jawa Timur",
+    "luas_lahan_ha": "563.00"
+  },
+  {
+    "no": "101",
+    "nama_kawasan": "Kawasan Industri Sidoarjo",
+    "pengelola_kawasan": "PT. Kawasan Industri Sidoarjo",
+    "lokasi": "Kab. Sidoarjo - Jawa Timur",
+    "luas_lahan_ha": "88.64"
+  },
+  {
+    "no": "102",
+    "nama_kawasan": "Kawasan Industri Safe N Lock",
+    "pengelola_kawasan": "PT. Makmur Berkah Ananda",
+    "lokasi": "Kab. Sidoarjo - Jawa Timur",
+    "luas_lahan_ha": "147.25"
+  },
+  {
+    "no": "103",
+    "nama_kawasan": "Sidoarjo Industrial Estate Berbek",
+    "pengelola_kawasan": "PT. Surabaya Industrial Estate Rungkut",
+    "lokasi": "Kab. Sidoarjo - Jawa Timur",
+    "luas_lahan_ha": "87.00"
+  },
+  {
+    "no": "104",
+    "nama_kawasan": "Central Industrial Park",
+    "pengelola_kawasan": "PT. Multi Persada Sejahtera",
+    "lokasi": "Kab. Sidoarjo - Jawa Timur",
+    "luas_lahan_ha": "52.00"
+  },
+  {
+    "no": "105",
+    "nama_kawasan": "Kawasan Industri SiRIE",
+    "pengelola_kawasan": "PT. Bhumi Kencana Sejahtera",
+    "lokasi": "Kab. Sidoarjo - Jawa Timur",
+    "luas_lahan_ha": "105.00"
+  },
+  {
+    "no": "106",
+    "nama_kawasan": "Ngoro Industrial Park",
+    "pengelola_kawasan": "PT. Intiland Sejahtera",
+    "lokasi": "Kab. Mojokerto - Jawa Timur",
+    "luas_lahan_ha": "214.00"
+  },
+  {
+    "no": "107",
+    "nama_kawasan": "Ngoro Industrial Park",
+    "pengelola_kawasan": "PT. Kawasan Industri Intiland (PT Dharmala RSEA)",
+    "lokasi": "Kab. Mojokerto - Jawa Timur",
+    "luas_lahan_ha": "156.00"
+  },
+  {
+    "no": "108",
+    "nama_kawasan": "Kawasan Industri Tuban",
+    "pengelola_kawasan": "PT. Kawasan Industri Gresik",
+    "lokasi": "Kab. Tuban - Jawa Timur",
+    "luas_lahan_ha": "233.50"
+  },
+  {
+    "no": "109",
+    "nama_kawasan": "iSentra @Lamongan",
+    "pengelola_kawasan": "PT. Jakamitra Indonesia",
+    "lokasi": "Kab. Lamongan - Jawa Timur",
+    "luas_lahan_ha": "485.17"
+  },
+  {
+    "no": "110",
+    "nama_kawasan": "Kawasan Industri Gresik",
+    "pengelola_kawasan": "PT. Kawasan Industri Gresik",
+    "lokasi": "Kab. Gresik - Jawa Timur",
+    "luas_lahan_ha": "140.00"
+  },
+  {
+    "no": "111",
+    "nama_kawasan": "Maspion Industrial Estate",
+    "pengelola_kawasan": "PT. Maspion Industrial Estate",
+    "lokasi": "Kab. Gresik - Jawa Timur",
+    "luas_lahan_ha": "425.20"
+  },
+  {
+    "no": "112",
+    "nama_kawasan": "Java Integrated Industrial and Port Estate",
+    "pengelola_kawasan": "PT. Berkah Kawasan Manyar Sejahtera",
+    "lokasi": "Kab. Gresik - Jawa Timur",
+    "luas_lahan_ha": "1761.00"
+  },
+  {
+    "no": "113",
+    "nama_kawasan": "Surabaya Industrial Estate Rungkut",
+    "pengelola_kawasan": "PT. Surabaya Industrial Estate Rungkut",
+    "lokasi": "Kota Surabaya - Jawa Timur",
+    "luas_lahan_ha": "335.00"
+  },
+  {
+    "no": "114",
+    "nama_kawasan": "Kawasan Taman lndustri Busan",
+    "pengelola_kawasan": "PT. Astasiti Mahadhana",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "29.47"
+  },
+  {
+    "no": "115",
+    "nama_kawasan": "Millenium Industrial Estate",
+    "pengelola_kawasan": "PT. Bumi Citra Permai",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "863.53"
+  },
+  {
+    "no": "116",
+    "nama_kawasan": "Kawasan Industri Pasar Kemis",
+    "pengelola_kawasan": "PT. Putera Daya Perkasa",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "73.00"
+  },
+  {
+    "no": "117",
+    "nama_kawasan": "Kawasan Industri & Pergudangan Cikupamas",
+    "pengelola_kawasan": "PT. Mitratangerang Bhumimas",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "317.00"
+  },
+  {
+    "no": "118",
+    "nama_kawasan": "Griya Idola Industrial Park",
+    "pengelola_kawasan": "PT. Jabar Utama Wood Industry",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "72.00"
+  },
+  {
+    "no": "119",
+    "nama_kawasan": "Kawasan Industri Sumber Rezeki",
+    "pengelola_kawasan": "PT. Irama Gemilang Lestari",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "99.18"
+  },
+  {
+    "no": "120",
+    "nama_kawasan": "Kawasan Pergudangan dan Industri Kosambi Permai",
+    "pengelola_kawasan": "PT. Angkasa Pancabersaudara",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "69.20"
+  },
+  {
+    "no": "121",
+    "nama_kawasan": "Kawasan Industri Royal Kosambi",
+    "pengelola_kawasan": "PT. Nuraiti Tjermin",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "43.07"
+  },
+  {
+    "no": "122",
+    "nama_kawasan": "Laksana Business Park",
+    "pengelola_kawasan": "PT. Bangun Laksana Persada",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "398.00"
+  },
+  {
+    "no": "123",
+    "nama_kawasan": "Kawasan Industri Blessindo",
+    "pengelola_kawasan": "PT. Blessindo lntiland",
+    "lokasi": "Kab. Tangerang - Banten",
+    "luas_lahan_ha": "124.33"
+  },
+  {
+    "no": "124",
+    "nama_kawasan": "Modern Cikande Industrial Estate",
+    "pengelola_kawasan": "PT. The New Asia Industrial Estate",
+    "lokasi": "Kab. Serang - Banten",
+    "luas_lahan_ha": "760.00"
+  },
+  {
+    "no": "125",
+    "nama_kawasan": "CP Industrial Estate",
+    "pengelola_kawasan": "PT. Comarindo Pratama",
+    "lokasi": "Kab. Serang - Banten",
+    "luas_lahan_ha": "100.50"
+  },
+  {
+    "no": "126",
+    "nama_kawasan": "Kawasan Industri Nikomas Gemilang",
+    "pengelola_kawasan": "PT. Nikomas Gemilang",
+    "lokasi": "Kab. Serang - Banten",
+    "luas_lahan_ha": "202.54"
+  },
+  {
+    "no": "127",
+    "nama_kawasan": "Modern Cikande Industrial Estate",
+    "pengelola_kawasan": "PT. Modern Industrial Estat",
+    "lokasi": "Kab. Serang - Banten",
+    "luas_lahan_ha": "890.00"
+  },
+  {
+    "no": "128",
+    "nama_kawasan": "Modern Cikande Industrial Estate",
+    "pengelola_kawasan": "PT. Puncak Ardimulia Realty",
+    "lokasi": "Kab. Serang - Banten",
+    "luas_lahan_ha": "255.00"
+  },
+  {
+    "no": "129",
+    "nama_kawasan": "Kawasan Industri Terpadu Wilmar",
+    "pengelola_kawasan": "PT. Multimas Nabati Asahan",
+    "lokasi": "Kab. Serang - Banten",
+    "luas_lahan_ha": "710.70"
+  },
+  {
+    "no": "130",
+    "nama_kawasan": "Kawasan Industri SBS",
+    "pengelola_kawasan": "PT. Sumber Bina Sukses",
+    "lokasi": "Kab. Serang - Banten",
+    "luas_lahan_ha": "233.00"
+  },
+  {
+    "no": "131",
+    "nama_kawasan": "Krakatau Industrial Estate Cilegon",
+    "pengelola_kawasan": "PT. Krakatau Sarana Infrastruktur",
+    "lokasi": "Kota Cilegon - Banten",
+    "luas_lahan_ha": "1050.00"
+  },
+  {
+    "no": "132",
+    "nama_kawasan": "Kawasan Industri Panca Puri",
+    "pengelola_kawasan": "PT. Pancapuri Indoperkasa",
+    "lokasi": "Kota Cilegon - Banten",
+    "luas_lahan_ha": "100.00"
+  },
+  {
+    "no": "133",
+    "nama_kawasan": "Kawasan Industri dan Pergudangan Taman Tekno BSD",
+    "pengelola_kawasan": "PT. Bumi Serpong Damai",
+    "lokasi": "Kota Tangerang Selatan - Banten",
+    "luas_lahan_ha": "200.00"
+  },
+  {
+    "no": "134",
+    "nama_kawasan": "Kawasan Industri KBS",
+    "pengelola_kawasan": "PT. Ketapang Bangun Sarana",
+    "lokasi": "Kab. Ketapang - Kalimantan Barat",
+    "luas_lahan_ha": "2150.00"
+  },
+  {
+    "no": "135",
+    "nama_kawasan": "Ketapang Ecology and Agriculture Forestery Industrial Park",
+    "pengelola_kawasan": "PT. Ketapang Ecology and Agriculture Forestery",
+    "lokasi": "Kab. Ketapang - Kalimantan Barat",
+    "luas_lahan_ha": "90.53"
+  },
+  {
+    "no": "136",
+    "nama_kawasan": "Kawasan Industri Landak",
+    "pengelola_kawasan": "PT. Landak Barajaki",
+    "lokasi": "Kab. Landak - Kalimantan Barat",
+    "luas_lahan_ha": "82.50"
+  },
+  {
+    "no": "137",
+    "nama_kawasan": "Kawasan Industri Surya Borneo",
+    "pengelola_kawasan": "PT. Surya Borneo Industri",
+    "lokasi": "Kab. Kotawaringin Barat - Kalimantan Tengah",
+    "luas_lahan_ha": "96.00"
+  },
+  {
+    "no": "138",
+    "nama_kawasan": "Kawasan Industri Jorong",
+    "pengelola_kawasan": "PT. Wahyu Putra Eamadhan",
+    "lokasi": "Kab. Tanah Laut - Kalimantan Selatan",
+    "luas_lahan_ha": "55.75"
+  },
+  {
+    "no": "139",
+    "nama_kawasan": "Sebuku Indonesia Industrial Park",
+    "pengelola_kawasan": "PT. Sebuku Baja Perkasa",
+    "lokasi": "Kab. Kotabaru - Kalimantan Selatan",
+    "luas_lahan_ha": "629.07"
+  },
+  {
+    "no": "140",
+    "nama_kawasan": "Kawasan Industri Batulicin",
+    "pengelola_kawasan": "PT. Tumbuh Sejahtera Bersama",
+    "lokasi": "Kab. Tanah Bumbu - Kalimantan Selatan",
+    "luas_lahan_ha": "362.56"
+  },
+  {
+    "no": "141",
+    "nama_kawasan": "Kawasan Industri Batulicin",
+    "pengelola_kawasan": "PT. Selaras Cipta Lestari",
+    "lokasi": "Kab. Tanah Bumbu - Kalimantan Selatan",
+    "luas_lahan_ha": "331.48"
+  },
+  {
+    "no": "142",
+    "nama_kawasan": "Kawasan Industri Batulicin",
+    "pengelola_kawasan": "PT. Bumi Cipta Khatulistiwa",
+    "lokasi": "Kab. Tanah Bumbu - Kalimantan Selatan",
+    "luas_lahan_ha": "361.94"
+  },
+  {
+    "no": "143",
+    "nama_kawasan": "Kawasan Industri Batulicin",
+    "pengelola_kawasan": "PT. Aditya Prima Perkasa",
+    "lokasi": "Kab. Tanah Bumbu - Kalimantan Selatan",
+    "luas_lahan_ha": "307.76"
+  },
+  {
+    "no": "144",
+    "nama_kawasan": "Kawasan Industri Batulicin",
+    "pengelola_kawasan": "PT. Wana Cipta Sejahtera",
+    "lokasi": "Kab. Tanah Bumbu - Kalimantan Selatan",
+    "luas_lahan_ha": "366.59"
+  },
+  {
+    "no": "145",
+    "nama_kawasan": "Kawasan Industri Batuta / BCIP",
+    "pengelola_kawasan": "PT. Batuta Chemical Industrial Park",
+    "lokasi": "Kab. Kutai Timur - Kalimantan Timur",
+    "luas_lahan_ha": "943.80"
+  },
+  {
+    "no": "146",
+    "nama_kawasan": "Kawasan Industri Kariangau",
+    "pengelola_kawasan": "Perumda Manuntu Sukses",
+    "lokasi": "Kota Balikpapan - Kalimantan Timur",
+    "luas_lahan_ha": "133.80"
+  },
+  {
+    "no": "147",
+    "nama_kawasan": "Kaltim Industrial Estate",
+    "pengelola_kawasan": "PT. Kaltim Industrial Estate",
+    "lokasi": "Kota Bontang - Kalimantan Timur",
+    "luas_lahan_ha": "214.09"
+  },
+  {
+    "no": "148",
+    "nama_kawasan": "KIPI",
+    "pengelola_kawasan": "PT. Kalimantan Industrial Park Indonesia",
+    "lokasi": "Kab. Bulungan - Kalimantan Utara",
+    "luas_lahan_ha": "9500.00"
+  },
+  {
+    "no": "149",
+    "nama_kawasan": "KI Bolaang Mongondow (KIMONG)",
+    "pengelola_kawasan": "PT. Kawasan Industri Mongondow",
+    "lokasi": "Kab. Bolaang Mongondow - Sulawesi Utara",
+    "luas_lahan_ha": "609.10"
+  },
+  {
+    "no": "150",
+    "nama_kawasan": "Neo Energy Morowali Industrial Estate (NEMIE)",
+    "pengelola_kawasan": "PT. Morowali Industri Sejahtera",
+    "lokasi": "Kab. Morowali - Sulawesi Tengah",
+    "luas_lahan_ha": "283.20"
+  },
+  {
+    "no": "151",
+    "nama_kawasan": "Indonesia Huabao Industrial Park (IHIP)",
+    "pengelola_kawasan": "PT. Baoshuo Taman Industry Investment Group",
+    "lokasi": "Kab. Morowali - Sulawesi Tengah",
+    "luas_lahan_ha": "121.00"
+  },
+  {
+    "no": "152",
+    "nama_kawasan": "Kawasan Industri ATI",
+    "pengelola_kawasan": "PT. Anugrah Tambang Industri",
+    "lokasi": "Kab. Morowali - Sulawesi Tengah",
+    "luas_lahan_ha": "1272.00"
+  },
+  {
+    "no": "153",
+    "nama_kawasan": "Kawasan Industri Morowali",
+    "pengelola_kawasan": "PT. Indonesia Morowali Industrial Park",
+    "lokasi": "Kab. Morowali - Sulawesi Tengah",
+    "luas_lahan_ha": "2000.00"
+  },
+  {
+    "no": "154",
+    "nama_kawasan": "Qingdao Indonesia Industrial Park",
+    "pengelola_kawasan": "PT. Transon Bumi Resources",
+    "lokasi": "Kab. Morowali - Sulawesi Tengah",
+    "luas_lahan_ha": "89.00"
+  },
+  {
+    "no": "155",
+    "nama_kawasan": "Neo Energy Parimo Industrial Estate",
+    "pengelola_kawasan": "PT. Anugrah Tehnik Industry",
+    "lokasi": "Kab. Parigi Moutong - Sulawesi Tengah",
+    "luas_lahan_ha": "187.84"
+  },
+  {
+    "no": "156",
+    "nama_kawasan": "Kawasan Industri Stardust",
+    "pengelola_kawasan": "PT. Stardust Estate Investment",
+    "lokasi": "Kab. Morowali Utara - Sulawesi Tengah",
+    "luas_lahan_ha": "1337.00"
+  },
+  {
+    "no": "157",
+    "nama_kawasan": "ESKI (Enam Sembilan Kawasan Industri)",
+    "pengelola_kawasan": "PT. Enam Sembilan Kawasan Industri",
+    "lokasi": "Kab. Morowali Utara - Sulawesi Tengah",
+    "luas_lahan_ha": "1000.00"
+  },
+  {
+    "no": "158",
+    "nama_kawasan": "Kawasan Industri Palu",
+    "pengelola_kawasan": "PT. Bangun Palu Sulteng",
+    "lokasi": "Kota Palu - Sulawesi Tengah",
+    "luas_lahan_ha": "1500.00"
+  },
+  {
+    "no": "159",
+    "nama_kawasan": "Kawasan Industri Takalar",
+    "pengelola_kawasan": "PT. Kawasan Industri Tiran",
+    "lokasi": "Kab. Takalar - Sulawesi Selatan",
+    "luas_lahan_ha": "175.00"
+  },
+  {
+    "no": "160",
+    "nama_kawasan": "Kawasan Industri Makasar",
+    "pengelola_kawasan": "PT. KIMA",
+    "lokasi": "Kota Makassar - Sulawesi Selatan",
+    "luas_lahan_ha": "340.26"
+  },
+  {
+    "no": "161",
+    "nama_kawasan": "Indonesia Pomalaa Industry Park (IPIP)",
+    "pengelola_kawasan": "PT. Indonesia Pomalaa Industry Park",
+    "lokasi": "Kab. Kolaka - Sulawesi Tenggara",
+    "luas_lahan_ha": "686.00"
+  },
+  {
+    "no": "162",
+    "nama_kawasan": "Kawasan Industri Konawe",
+    "pengelola_kawasan": "PT. Virtue Dragon Nickel Industrial Park",
+    "lokasi": "Kab. Konawe - Sulawesi Tenggara",
+    "luas_lahan_ha": "1537.17"
+  },
+  {
+    "no": "163",
+    "nama_kawasan": "Indonesia Konawe Industrial Park",
+    "pengelola_kawasan": "PT. Indonesia Konawe Industrial Park",
+    "lokasi": "Kab. Konawe - Sulawesi Tenggara",
+    "luas_lahan_ha": "3854.37"
+  },
+  {
+    "no": "164",
+    "nama_kawasan": "Kawasan Industri Motui",
+    "pengelola_kawasan": "PT. Nusantara Industri Sejati",
+    "lokasi": "Kab. Konawe Utara - Sulawesi Tenggara",
+    "luas_lahan_ha": "375.00"
+  },
+  {
+    "no": "165",
+    "nama_kawasan": "Kawasan Industri Weda Bay",
+    "pengelola_kawasan": "PT. Indonesia Wedabay Industrial Park",
+    "lokasi": "Kab. Halmahera Tengah - Maluku Utara",
+    "luas_lahan_ha": "538.00"
+  },
+  {
+    "no": "166",
+    "nama_kawasan": "Kawasan Industri EFI",
+    "pengelola_kawasan": "PT. Emerald Ferrochromium Industry",
+    "lokasi": "Kab. Halmahera Utara - Maluku Utara",
+    "luas_lahan_ha": "1000.00"
+  },
+  {
+    "no": "167",
+    "nama_kawasan": "Kawasan Industri Pulau Obi",
+    "pengelola_kawasan": "PT. Trimegah Bangun Persada",
+    "lokasi": "Kab. Halmahera Selatan - Maluku Utara",
+    "luas_lahan_ha": "150.00"
+  },
+  {
+    "no": "168",
+    "nama_kawasan": "Kawasan Industri Buli",
+    "pengelola_kawasan": "PT. Feni Haltim",
+    "lokasi": "Kab. Halmahera Timur - Maluku Utara",
+    "luas_lahan_ha": "742.67"
+  }
+]
