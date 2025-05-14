@@ -11,25 +11,21 @@
     "locations": [
         {
             "location": "SIMPANG LEMBUSWANA",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/simpang-lembuswana",
             "cameraId": "4xIx1Es2Mbc0MDWwSEk2stBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
             "latlong": "-0.475294, 117.146139"
         },
         {
             "location": "TERAS SAMARINDA 9",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/teras-samarinda-9",
             "cameraId": "4xIx1EszSTJMNkpKsUg0tdBLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
             "latlong": "-0.501576, 117.137207"
         },
         {
             "location": "JEMBATAN MAHKOTA 2 (PALARAN)",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-mahkota-2-palaran",
             "cameraId": "49Ix0TMwMDAEIV0QQ9fQwMhA1wLI1DWxSE00M05KtEg1T9ZLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
             "latlong": "-0.537857, 117.152881"
         },
         {
             "location": "JEMBATAN MAHKOTA 2 (SK)",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/jembatan-mahkota-2-sk",
             "cameraId": "4xIx1DNOTjU2S0oxM06zNNJLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
             "latlong": "-0.529742, 117.162421"
         },
@@ -773,57 +769,198 @@
         },
         {
             "location": "GROSIR SEGIRI 2",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "4xIx1EszSTJMNkpKTjRONNRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
             "latlong": "-0.482655, 117.148917"
         },
         {
             "location": "TANJAKAN BUKIT PINANG",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJszBO0zVOTUrVTUszTtJNNU8z0TVLTUtLTEtKTUu1tNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
             "latlong": "-0.459937, 117.114262"
         },
         {
             "location": "TANJAKAN SURYANATA",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJMzU11TUytjDRTUtLtNBNNEsz0U01BrKTk03STMxT9JITcw0MhASE07vKM4odvNvMHVSElz2LAwA",
             "latlong": "-0.453395, 117.111688"
         },
         {
             "location": "CITRA NIAGA 1",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJs0g21zUwSzTTTUuzTNI1ME9L1TU0SEszMElNTktJttBLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
             "latlong": "-0.502834, 117.149983"
         },
         {
             "location": "CITRA NIAGA 2",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJSzJJ1k01SjLQTUuzTNO1MExL1DU3SUszNU40T0s1MNFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
             "latlong": "-0.502820, 117.149936"
         },
         {
             "location": "Depan RS SMC",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJMzGx1E0xNUvUTUuzNNU1AQroGhgB2YkWZmmmKaZ6yYm5BgZCAsLpXeUZxQ7ebeYOKsLLnsUBAA",
             "latlong": "-0.472915, 117.125034"
         },
         {
             "location": "Parkiran Teras Samarinda 1",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJM0gx1zUyMjbSTUszTNI1TEwz0TW3TEuzMDZMTTMzSdFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
             "latlong": "-0.500739, 117.133384"
         },
         {
             "location": "Parkiran Teras Samarinda 2",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJszAx1bU0NEnUBfIsdC3N0kx0zc3S0iwtDFLSUsxS9ZITcw0MhASE07vKM4odvNvMHVSElz2LAwA",
             "latlong": "-0.500801, 117.133469"
         },
         {
             "location": "SIMPANG GUNUNG SEMERU 3",
-            "url": "https://diskominfo.samarindakota.go.id/media/cctv/grosir-segiri-2",
             "cameraId": "49Ix0UtLS0tJSzNO0bU0M0vTTUuzsNQ1MkhL07WwTEtLNk5OSks1T9ZLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
             "latlong": "-0.500918, 117.141260"
+        },
+        {
+            "location": "Citra Niaga 4",
+            "cameraId": "49Ix0UtLS0tJSza31E1JMzLUTUszS9K1ME4z0TU0TUuzNDVJSku2MNdLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Fly Over Arah Kadrie Oening",
+            "cameraId": "49Ix0UtLS0tJM0wy1bU0MzbWTUszT9JNNU8z0TUxT0tLsjBJTks0MdRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Fly Over Arah Pembangunan",
+            "cameraId": "49Ix0UtLS0tJS0kx0E2ySDXWTUszMdJNMkwz0U01TkuzSDMzT0tMNdNLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Gor Segiri 1",
+            "cameraId": "49Ix0UtLS0tJMzRP1E0yMbLQTUuzNNBNM0gz0U01B7KTzA3TUi0T9ZITcw0MhASE07vKM4odvNvMHVSElz2LAwA",
+            "latlong": null
+        },
+        {
+            "location": "Gor Segiri 2",
+            "cameraId": "49Ix0UtLS0tJSzFN0zU1NTTSTUszTNE1T0kz0TW3TEuzTLQ0TrNMtdRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Jembatan Mahakam Arah Bigmall",
+            "cameraId": "49Ix0UtLS0tJszBO000zNDHTBfJSdU1S0kx0TYBMy2RDyzSLNGO95MRcAwMhAeH0rvKMYgfvNnMHFeFlz-IA",
+            "latlong": null
+        },
+        {
+            "location": "Jembatan Mahakam Arah Jembatan",
+            "cameraId": "49Ix0UtLS0tJM0wy0jWyMDLXTUszNdBNsUgz0TUzTktLMkizSEs1NdRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "Poros Samarinda - Bontang Arah Bontang",
+            "cameraId": "49Ix0UtLS0tJM7Y01jVJszDRTUtLTNRNTU4z0TUzTEszMDA3STMwN9dLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Poros Samarinda - Bontang Arah Samarinda",
+            "cameraId": "49Ix0UtLS0tJSzVL0TUxTjbRTUszNtK1NEgz0bUwTUtLtEgzSLNIMdRLTsw1MBASaJ7Y-jxU30d8W6vMVr-1Rz0A",
+            "latlong": null
+        },
+        {
+            "location": "SIMPANG BTN",
+            "cameraId": "4xIx1EsyMUk2TjI3Mkg1MddLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang 3 Agus Salim Arah Agus Salim",
+            "cameraId": "49Ix0UtLS0tJS0k10LU0TDHRTUszTdG1NE4z0TU1SkuztEgxTjNITNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang 3 Agus Salim Arah Jembatan Baru",
+            "cameraId": "49Ix0UtLS0tJMzQ00E1MTjXUTUtLTtE1Sksz0TWxTEuzMEhMTEtJTNVLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Air Putih Arah Antasari",
+            "cameraId": "4xIx1DNLNkw2NzQ3NDFMM9NLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Antasari Cendana",
+            "cameraId": "49Ix0UtLS0tJszQ10U0yMTDVTUtLNdK1NE0z0TUzTUtLNDVLTLM0TtRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Antasari Depan SD",
+            "cameraId": "49Ix0UtLS0tJM7ZM1TVLSTPSTUtLTdVNtUwz0TU3SEtLTDZISrMwSdJLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Damanuri - Ogok",
+            "cameraId": "49Ix0UtLS0tJSzVN0zU2TzTXTUtLNtE1MEsz0TU0SUuztDSzSDM1MtZLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Gerilya - Solong",
+            "cameraId": "49Ix0UtLS0tJszA30DVISk3WTQMydS1N0ix0zQzS0oyNjJPSjFKN9JITcw0MhASE07vKM4odvNvMHVSElz2LAwA",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Juanda Depan Polsek",
+            "cameraId": "49Ix0UtLS0tJMzcx1E20MDLWTUtLstQ1NklL1DUzTEszMU02T0u0MNZLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang M. Yamin Arah Unmul",
+            "cameraId": "49Ix0UtLS0tJSzZL07VMMkzVTUuzMNJNMk8z1E1MBEqkmiWlGaWm6CUn5hoYCAkIp3eVZxQ7eLeZO6gIL3sWBwA",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Pramuka - Perjuangan",
+            "cameraId": "4xIx1EtLNk0zsUwzNEmyNNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Rajawali - Gatsu",
+            "cameraId": "49Ix0UtLS0tJSzQx0DVKNjPTTUszMdY1NUkz0bWwSEtLMjFKSks1M9BLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Rajawali Bandara Lama",
+            "cameraId": "49Ix0UtLS0tJSzFO1jUwMLHUTUuzMNc1Tkoz001MTEtLMk5OTEs1MtFLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Sempaja Arah Aws",
+            "cameraId": "49Ix0UtLS0tJMzEz07VIM0_TTUtLttQ1SEwzARFplomGaWlJBsl6yYm5BgZCAsLpXeUZxQ7ebeYOKsLLnsUBAA",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Sempaja Arah Wahid Hasyim",
+            "cameraId": "49Ix0UtLS0tJSzNM1jVNsjDUTUtLNdQ1Sksz0TW0TEtLMjRITEtJNNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Siradj Salman 1",
+            "cameraId": "49Ix0UtLS0tJMzM11E0xMUzWTUuzMNU1NU2z0DU3TUtLNDdKTrNMs9BLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Siradj Salman 3",
+            "cameraId": "49Ix0UtLS0tJM0wy1jVPMTbSTUszTtU1M04z0TVKSktLTEm2SEsyMtJLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Siradj Salman Arah Grand Mahakam",
+            "cameraId": "49Ix0UtLS0tJS0000TVJMzDRBfKSdE3T0oAscyAzycI8LdkkWS85MdfAQEhAOL2rPKPYwbvN3EFFeNmzOAA",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Siradj Salman Arah Wijaya Kusuma",
+            "cameraId": "49Ix0UtLS0tJSzU01DVMtDTQTUuzNNO1NElL0jU3TkszMU4yTEuySNRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
+        },
+        {
+            "location": "Simpang Voorfo",
+            "cameraId": "49Ix0UtLS0tJM0o21E0xN7TQTUtLStE1Nkiz1DUyBcoYWyamGRqn6iUn5hoYCAkIp3eVZxQ7eLeZO6gIL3sWBwA",
+            "latlong": null
+        },
+        {
+            "location": "TUGU PARUH ENGGANG PERBATANSAN",
+            "cameraId": "49Ix0UtLS0tJSzVL0TUxTjbRTUszNtK1NEgz0bUwTUtLtEgzSLNIMdRLTsw1MBASEE7vKs8odvBuM3dQEV72LA4A",
+            "latlong": null
         }
     ]
 }
