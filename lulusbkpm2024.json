@@ -71,20 +71,6 @@
   },
   {
     "No": 6,
-    "Nomor Peserta": "24402120110000407",
-    "Nama": "MUHAMMAD AULIA RACHMAN",
-    "JK": "L",
-    "Tanggal Lahir": "18 Februari",
-    "Tahun": 2001,
-    "Pendidikan": "D-III SISTEM INFORMASI",
-    "IPK": "3.4",
-    "Jabatan": "Pranata Komputer Terampil",
-    "Formasi": "UMUM",
-    "Divisi": "Deputi Bidang Teknologi Informasi Penanaman Modal",
-    "Sub-Divisi": "Direktorat Data dan Informasi"
-  },
-  {
-    "No": 7,
     "Nomor Peserta": "24402120120000208",
     "Nama": "THALIA MILLENE SURYANI",
     "JK": "P",
@@ -98,7 +84,7 @@
     "Sub-Divisi": "-"
   },
   {
-    "No": 8,
+    "No": 7,
     "Nomor Peserta": "24402120120000866",
     "Nama": "LINA KARIMAH AMATULLAH",
     "JK": "P",
@@ -112,7 +98,7 @@
     "Sub-Divisi": "-"
   },
   {
-    "No": 9,
+    "No": 8,
     "Nomor Peserta": "24402120310000004",
     "Nama": "ALBERT SAMBUL",
     "JK": "L",
@@ -126,7 +112,7 @@
     "Sub-Divisi": "-"
   },
   {
-    "No": 10,
+    "No": 9,
     "Nomor Peserta": "24402120120000388",
     "Nama": "RIZKA FAADHILAH",
     "JK": "P",
@@ -140,7 +126,7 @@
     "Sub-Divisi": "Biro Hukum"
   },
   {
-    "No": 11,
+    "No": 10,
     "Nomor Peserta": "24402120120000387",
     "Nama": "ARIFA PUSPA MAULIDYA",
     "JK": "P",
@@ -154,7 +140,7 @@
     "Sub-Divisi": "Biro Hukum"
   },
   {
-    "No": 12,
+    "No": 11,
     "Nomor Peserta": "24402120120000257",
     "Nama": "BTHARI OCTAVIANI PUTRI",
     "JK": "P",
@@ -168,7 +154,7 @@
     "Sub-Divisi": "Biro Hukum"
   },
   {
-    "No": 13,
+    "No": 12,
     "Nomor Peserta": "24402120120000252",
     "Nama": "YUSTISIANI IMAMI, S.H",
     "JK": "P",
@@ -182,7 +168,7 @@
     "Sub-Divisi": "Biro Hukum"
   },
   {
-    "No": 14,
+    "No": 13,
     "Nomor Peserta": "24402120110000259",
     "Nama": "ARDANI RAIHAN UTOMO",
     "JK": "L",
@@ -196,7 +182,7 @@
     "Sub-Divisi": "Biro Hukum"
   },
   {
-    "No": 15,
+    "No": 14,
     "Nomor Peserta": "24402120110000224",
     "Nama": "MUH IRIANSYAH T TJOTENG",
     "JK": "L",
@@ -210,7 +196,7 @@
     "Sub-Divisi": "Biro Hukum"
   },
   {
-    "No": 16,
+    "No": 15,
     "Nomor Peserta": "24402120120000209",
     "Nama": "MUSDALIFAH ASTI NUR ISNAINI",
     "JK": "P",
@@ -224,7 +210,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 17,
+    "No": 16,
     "Nomor Peserta": "24402120110000515",
     "Nama": "NIKO ARYANTO",
     "JK": "L",
@@ -238,7 +224,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 18,
+    "No": 17,
     "Nomor Peserta": "24402120110000434",
     "Nama": "DAMAR SIANTURRAHMAN",
     "JK": "L",
@@ -252,7 +238,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 19,
+    "No": 18,
     "Nomor Peserta": "24402120120000218",
     "Nama": "ARINI SABILA ULYA",
     "JK": "P",
@@ -266,7 +252,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 20,
+    "No": 19,
     "Nomor Peserta": "24402120120000051",
     "Nama": "ANASTASIA RACHAEL TYASADI",
     "JK": "P",
@@ -280,7 +266,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 21,
+    "No": 20,
     "Nomor Peserta": "24402120110000308",
     "Nama": "ADI CAHYADI",
     "JK": "L",
@@ -294,7 +280,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 22,
+    "No": 21,
     "Nomor Peserta": "24402120120000325",
     "Nama": "TITIS SEPTIANA",
     "JK": "P",
@@ -308,7 +294,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 23,
+    "No": 22,
     "Nomor Peserta": "24402120110000158",
     "Nama": "GERRY UTAMA PUTRA",
     "JK": "L",
@@ -322,7 +308,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 24,
+    "No": 23,
     "Nomor Peserta": "24402120110000180",
     "Nama": "JEREMIA PASKALIS MANER MARPAUNG",
     "JK": "L",
@@ -336,7 +322,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 25,
+    "No": 24,
     "Nomor Peserta": "24402120120000446",
     "Nama": "NABILA ZAHRA AZIZAH",
     "JK": "P",
@@ -350,7 +336,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 26,
+    "No": 25,
     "Nomor Peserta": "24402120120000445",
     "Nama": "JUSTICIA ESTETIKA MAULIDA",
     "JK": "P",
@@ -364,7 +350,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 27,
+    "No": 26,
     "Nomor Peserta": "24402120120000511",
     "Nama": "FATTARA DIWA SERIN",
     "JK": "P",
@@ -378,7 +364,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 28,
+    "No": 27,
     "Nomor Peserta": "24402120120000699",
     "Nama": "AUDY SHAFIRA NURFARIESHA AZZAHRA",
     "JK": "P",
@@ -392,7 +378,7 @@
     "Sub-Divisi": "Biro Protokol dan Tata Usaha"
   },
   {
-    "No": 29,
+    "No": 28,
     "Nomor Peserta": "24402120120000454",
     "Nama": "FIDYA PANORAMA DAMAYANTI",
     "JK": "P",
@@ -406,7 +392,7 @@
     "Sub-Divisi": "Biro Komunikasi dan Layanan"
   },
   {
-    "No": 30,
+    "No": 29,
     "Nomor Peserta": "24402120120000552",
     "Nama": "KEISHA MEI LAGUNSAD",
     "JK": "P",
@@ -420,7 +406,7 @@
     "Sub-Divisi": "Biro Komunikasi dan Layanan"
   },
   {
-    "No": 31,
+    "No": 30,
     "Nomor Peserta": "24402120120000780",
     "Nama": "DELLA ZALIKA IMAN",
     "JK": "P",
@@ -434,7 +420,7 @@
     "Sub-Divisi": "Biro Komunikasi dan Layanan"
   },
   {
-    "No": 32,
+    "No": 31,
     "Nomor Peserta": "24402120120000352",
     "Nama": "ISNAWATI DEVEGA SIHALOHO",
     "JK": "P",
@@ -448,7 +434,7 @@
     "Sub-Divisi": "Biro Komunikasi dan Layanan"
   },
   {
-    "No": 33,
+    "No": 32,
     "Nomor Peserta": "24402120120000101",
     "Nama": "ANNISA PUTRI",
     "JK": "P",
@@ -462,7 +448,7 @@
     "Sub-Divisi": "Biro Komunikasi dan Layanan"
   },
   {
-    "No": 34,
+    "No": 33,
     "Nomor Peserta": "24402120910000012",
     "Nama": "HUTAURUK, MICHAEL ANDREW CHRISTOPER",
     "JK": "L",
@@ -476,7 +462,7 @@
     "Sub-Divisi": "Biro Komunikasi dan Layanan"
   },
   {
-    "No": 35,
+    "No": 34,
     "Nomor Peserta": "24402120120000648",
     "Nama": "DINDA ANANING RIZKI",
     "JK": "P",
@@ -490,7 +476,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 36,
+    "No": 35,
     "Nomor Peserta": "24402120120000805",
     "Nama": "NUR ANNISA",
     "JK": "P",
@@ -504,7 +490,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 37,
+    "No": 36,
     "Nomor Peserta": "24402120120000798",
     "Nama": "KHIKMATUL ULUM",
     "JK": "P",
@@ -518,7 +504,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 38,
+    "No": 37,
     "Nomor Peserta": "24402120120000086",
     "Nama": "DEA ATSMARA ULYA MAHRANI ZAKARIA",
     "JK": "P",
@@ -532,7 +518,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 39,
+    "No": 38,
     "Nomor Peserta": "24402120120000269",
     "Nama": "DESY ISDAYATUL COIRU NISA",
     "JK": "P",
@@ -546,7 +532,7 @@
     "Sub-Divisi": "Biro Perencanaan Program dan Anggaran"
   },
   {
-    "No": 40,
+    "No": 39,
     "Nomor Peserta": "24402120110000160",
     "Nama": "RIVALD FATHUR GHAFFARY LENGGO GINTA",
     "JK": "L",
@@ -560,7 +546,7 @@
     "Sub-Divisi": "Biro Perencanaan Program dan Anggaran"
   },
   {
-    "No": 41,
+    "No": 40,
     "Nomor Peserta": "24402120120000189",
     "Nama": "AISHA AIDA NUHA",
     "JK": "P",
@@ -574,7 +560,7 @@
     "Sub-Divisi": "Biro Perencanaan Program dan Anggaran"
   },
   {
-    "No": 42,
+    "No": 41,
     "Nomor Peserta": "24402120120000270",
     "Nama": "HIDAYATUL AZIZAH PUTRI",
     "JK": "P",
@@ -588,7 +574,7 @@
     "Sub-Divisi": "Biro Perencanaan Program dan Anggaran"
   },
   {
-    "No": 43,
+    "No": 42,
     "Nomor Peserta": "24402120110000450",
     "Nama": "FADLI RUSANDY",
     "JK": "L",
@@ -602,7 +588,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 44,
+    "No": 43,
     "Nomor Peserta": "24402120110000301",
     "Nama": "FRANS DONI PARDAMEAN SIMANJORANG",
     "JK": "L",
@@ -616,7 +602,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 45,
+    "No": 44,
     "Nomor Peserta": "24402120120000441",
     "Nama": "KHUSNUL KHOTIMAH",
     "JK": "P",
@@ -630,7 +616,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 46,
+    "No": 45,
     "Nomor Peserta": "24402120110000101",
     "Nama": "REYNALDI ALVI WANANDI",
     "JK": "L",
@@ -644,7 +630,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 47,
+    "No": 46,
     "Nomor Peserta": "24402120120000437",
     "Nama": "NATALIA FIASARI",
     "JK": "P",
@@ -658,7 +644,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 48,
+    "No": 47,
     "Nomor Peserta": "24402120110000307",
     "Nama": "HELMI DARIS PITOKO",
     "JK": "L",
@@ -672,7 +658,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 49,
+    "No": 48,
     "Nomor Peserta": "24402120110000618",
     "Nama": "RAMDHANI AMARTYA EKARISANTO",
     "JK": "L",
@@ -686,7 +672,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 50,
+    "No": 49,
     "Nomor Peserta": "24402120120000139",
     "Nama": "GABRIELLA AMANDA",
     "JK": "P",
@@ -700,7 +686,7 @@
     "Sub-Divisi": "Biro Umum"
   },
   {
-    "No": 51,
+    "No": 50,
     "Nomor Peserta": "24402120120000230",
     "Nama": "IZZATINISA",
     "JK": "P",
@@ -714,7 +700,7 @@
     "Sub-Divisi": "-"
   },
   {
-    "No": 52,
+    "No": 51,
     "Nomor Peserta": "24402120120000486",
     "Nama": "ANITA SUKMAWATI",
     "JK": "P",
@@ -728,7 +714,7 @@
     "Sub-Divisi": "-"
   },
   {
-    "No": 53,
+    "No": 52,
     "Nomor Peserta": "24402120110000363",
     "Nama": "ZAFRANS GUMANTI",
     "JK": "L",
@@ -742,7 +728,7 @@
     "Sub-Divisi": "Direktorat Promosi Wilayah Amerika dan Eropa"
   },
   {
-    "No": 54,
+    "No": 53,
     "Nomor Peserta": "24402120120000550",
     "Nama": "A NADIA SHABIHAH IRWAN",
     "JK": "P",
@@ -756,7 +742,7 @@
     "Sub-Divisi": "Direktorat Promosi Wilayah Amerika dan Eropa"
   },
   {
-    "No": 55,
+    "No": 54,
     "Nomor Peserta": "24402120110000351",
     "Nama": "ROFFE RIZQULLAH DANISWARA",
     "JK": "L",
@@ -770,7 +756,7 @@
     "Sub-Divisi": "Direktorat Promosi Wilayah Asia Timur, Asia Selatan, Timur Tengah dan Afrika"
   },
   {
-    "No": 56,
+    "No": 55,
     "Nomor Peserta": "24402120110000404",
     "Nama": "FARIS NAUFAL ABDUL MAJID",
     "JK": "L",
@@ -784,7 +770,7 @@
     "Sub-Divisi": "Direktorat Promosi Wilayah Asia Timur, Asia Selatan, Timur Tengah dan Afrika"
   },
   {
-    "No": 57,
+    "No": 56,
     "Nomor Peserta": "24402120120000141",
     "Nama": "DINA LORENZA",
     "JK": "P",
@@ -798,7 +784,7 @@
     "Sub-Divisi": "Direktorat Promosi Wilayah Asia Tenggara, Australia, Selandia Baru dan Pasifik"
   },
   {
-    "No": 58,
+    "No": 57,
     "Nomor Peserta": "24402120110000197",
     "Nama": "ALAM NUR IKHLAS",
     "JK": "L",
@@ -812,7 +798,7 @@
     "Sub-Divisi": "Direktorat Promosi Wilayah Asia Tenggara, Australia, Selandia Baru dan Pasifik"
   },
   {
-    "No": 59,
+    "No": 58,
     "Nomor Peserta": "24402120110000236",
     "Nama": "IMRAN ZAKI",
     "JK": "L",
@@ -826,7 +812,7 @@
     "Sub-Divisi": "Direktorat Pengembangan Promosi"
   },
   {
-    "No": 60,
+    "No": 59,
     "Nomor Peserta": "24402120310000002",
     "Nama": "IRFANDI GUSTIA MAKNUN",
     "JK": "L",
@@ -840,7 +826,7 @@
     "Sub-Divisi": "Direktorat Pengembangan Promosi"
   },
   {
-    "No": 61,
+    "No": 60,
     "Nomor Peserta": "24402120110000507",
     "Nama": "M. HIKMATYAR ROBBANI",
     "JK": "L",
@@ -854,7 +840,7 @@
     "Sub-Divisi": "Direktorat Pelayanan Perizinan Berusaha Sektor Industri"
   },
   {
-    "No": 62,
+    "No": 61,
     "Nomor Peserta": "24402120310000003",
     "Nama": "ANDREUW OTTOUW GEISSLER SAFLEMBOLO",
     "JK": "L",
@@ -868,7 +854,7 @@
     "Sub-Divisi": "Direktorat Pelayanan Perizinan Berusaha Sektor Industri"
   },
   {
-    "No": 63,
+    "No": 62,
     "Nomor Peserta": "24402120120000523",
     "Nama": "AGNI FIDYA UTAMI",
     "JK": "P",
@@ -882,7 +868,7 @@
     "Sub-Divisi": "Direktorat Pelayanan Perizinan Berusaha Sektor Non Industri"
   },
   {
-    "No": 64,
+    "No": 63,
     "Nomor Peserta": "24402120120000590",
     "Nama": "MEGARIA FEBRIYANI PALUMPUN",
     "JK": "P",
@@ -896,7 +882,7 @@
     "Sub-Divisi": "Direktorat Pelayanan Perizinan Berusaha Sektor Non Industri"
   },
   {
-    "No": 65,
+    "No": 64,
     "Nomor Peserta": "24402120110000348",
     "Nama": "LIZAL RAMDHA SYAFAAT",
     "JK": "L",
@@ -910,7 +896,7 @@
     "Sub-Divisi": "Direktorat Pelayanan Fasilitas Berusaha"
   },
   {
-    "No": 66,
+    "No": 65,
     "Nomor Peserta": "24402120110000210",
     "Nama": "MUH. KUKUH SATRIO UTOMO W.",
     "JK": "L",
@@ -924,7 +910,7 @@
     "Sub-Divisi": "Direktorat Pelayanan Fasilitas Berusaha"
   },
   {
-    "No": 67,
+    "No": 66,
     "Nomor Peserta": "24402120110000272",
     "Nama": "ELTIMANTO MILENITO KUAHATY",
     "JK": "L",
@@ -938,7 +924,7 @@
     "Sub-Divisi": "Direktorat Kerja Sama Bilateral"
   },
   {
-    "No": 68,
+    "No": 67,
     "Nomor Peserta": "24402120110000246",
     "Nama": "BAYU SIDIK FIDIANTO",
     "JK": "L",
@@ -952,7 +938,7 @@
     "Sub-Divisi": "Direktorat Kerja Sama Pelaksanaan Berusaha"
   },
   {
-    "No": 69,
+    "No": 68,
     "Nomor Peserta": "24402120110000027",
     "Nama": "MOCHAMAD TAUFIQ ARIQ PURWANTO",
     "JK": "L",
@@ -966,7 +952,7 @@
     "Sub-Divisi": "Direktorat Kerja Sama Pelaksanaan Berusaha"
   },
   {
-    "No": 70,
+    "No": 69,
     "Nomor Peserta": "24402120120000455",
     "Nama": "MEYCHILONA",
     "JK": "P",
@@ -980,7 +966,7 @@
     "Sub-Divisi": "Direktorat Kerja Sama Regional dan Multilateral"
   },
   {
-    "No": 71,
+    "No": 70,
     "Nomor Peserta": "24402120110000416",
     "Nama": "GATRA PUTRA PERDANA",
     "JK": "L",
@@ -994,7 +980,7 @@
     "Sub-Divisi": "Direktorat Kerja Sama Regional dan Multilateral"
   },
   {
-    "No": 72,
+    "No": 71,
     "Nomor Peserta": "24402120120000520",
     "Nama": "TRI WAHYUNI VIHAR NOVIANA",
     "JK": "P",
@@ -1008,7 +994,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Perkebunan, Kelautan, Perikanan dan Kehutanan"
   },
   {
-    "No": 73,
+    "No": 72,
     "Nomor Peserta": "24402120120000129",
     "Nama": "WELLY LARASAKTI HANDANI",
     "JK": "P",
@@ -1022,7 +1008,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Perkebunan, Kelautan, Perikanan dan Kehutanan"
   },
   {
-    "No": 74,
+    "No": 73,
     "Nomor Peserta": "24402120120000451",
     "Nama": "SYALMA NABILA KAMAL",
     "JK": "P",
@@ -1036,7 +1022,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Perkebunan, Kelautan, Perikanan dan Kehutanan"
   },
   {
-    "No": 75,
+    "No": 74,
     "Nomor Peserta": "24402120120000495",
     "Nama": "DWI INDAH AYU KRISTANTI",
     "JK": "P",
@@ -1050,7 +1036,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Perkebunan, Kelautan, Perikanan dan Kehutanan"
   },
   {
-    "No": 76,
+    "No": 75,
     "Nomor Peserta": "24402120110000077",
     "Nama": "ABDI BAGUS APRIANTO",
     "JK": "L",
@@ -1064,7 +1050,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Minyak dan Gas Bumi"
   },
   {
-    "No": 77,
+    "No": 76,
     "Nomor Peserta": "24402120110000426",
     "Nama": "REZA FACHLEFI",
     "JK": "L",
@@ -1078,7 +1064,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Minyak dan Gas Bumi"
   },
   {
-    "No": 78,
+    "No": 77,
     "Nomor Peserta": "24402120110000262",
     "Nama": "MOHAMAD REVANO AGSA",
     "JK": "L",
@@ -1092,7 +1078,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Mineral dan Batubara"
   },
   {
-    "No": 79,
+    "No": 78,
     "Nomor Peserta": "24402120310000001",
     "Nama": "ABRAHAM A. L. WAYOI",
     "JK": "L",
@@ -1106,7 +1092,7 @@
     "Sub-Divisi": "Direktorat Hilirisasi Mineral dan Batubara"
   },
   {
-    "No": 80,
+    "No": 79,
     "Nomor Peserta": "24402120120000417",
     "Nama": "PRAMISARI SRI SASTITI",
     "JK": "P",
@@ -1120,7 +1106,7 @@
     "Sub-Divisi": "Direktorat Perencanaan Sumber Daya Alam"
   },
   {
-    "No": 81,
+    "No": 80,
     "Nomor Peserta": "24402120110000287",
     "Nama": "IRFAN RA'IF PRADANA",
     "JK": "L",
@@ -1134,7 +1120,7 @@
     "Sub-Divisi": "Direktorat Perencanaan Sumber Daya Alam"
   },
   {
-    "No": 82,
+    "No": 81,
     "Nomor Peserta": "24402120110000248",
     "Nama": "DANDY DETA MULYAWARMAN",
     "JK": "L",
@@ -1148,7 +1134,7 @@
     "Sub-Divisi": "Direktorat Perencanaan Industri Manufaktur"
   },
   {
-    "No": 83,
+    "No": 82,
     "Nomor Peserta": "24402120110000107",
     "Nama": "MUHAMMAD RAFI ANGGARA",
     "JK": "L",
@@ -1162,7 +1148,7 @@
     "Sub-Divisi": "Direktorat Perencanaan Industri Manufaktur"
   },
   {
-    "No": 84,
+    "No": 83,
     "Nomor Peserta": "24402120120000576",
     "Nama": "NUR FATIN DINIYAH SALAM",
     "JK": "P",
@@ -1176,7 +1162,7 @@
     "Sub-Divisi": "Direktorat Perencanaan Jasa dan Kawasan"
   },
   {
-    "No": 85,
+    "No": 84,
     "Nomor Peserta": "24402120110000200",
     "Nama": "ALOISIUS YONATHAN PRAKOSO",
     "JK": "L",
@@ -1190,7 +1176,7 @@
     "Sub-Divisi": "Direktorat Perencanaan Jasa dan Kawasan"
   },
   {
-    "No": 86,
+    "No": 85,
     "Nomor Peserta": "24402120110000329",
     "Nama": "IBRAHIM MALIK",
     "JK": "L",
@@ -1204,7 +1190,7 @@
     "Sub-Divisi": "Direktorat Perencanaan Infrastruktur"
   },
   {
-    "No": 87,
+    "No": 86,
     "Nomor Peserta": "24402120120000041",
     "Nama": "AFIFAH PUTRI PASARIBU",
     "JK": "P",
@@ -1218,7 +1204,7 @@
     "Sub-Divisi": "Direktorat Deregulasi Penanaman Modal"
   },
   {
-    "No": 88,
+    "No": 87,
     "Nomor Peserta": "24402120120000380",
     "Nama": "ROSITA WATI",
     "JK": "P",
@@ -1232,7 +1218,7 @@
     "Sub-Divisi": "Direktorat Deregulasi Penanaman Modal"
   },
   {
-    "No": 89,
+    "No": 88,
     "Nomor Peserta": "24402120110000252",
     "Nama": "RAMOS MITRAND GULTOM",
     "JK": "L",
@@ -1246,7 +1232,7 @@
     "Sub-Divisi": "Direktorat Pengembangan Potensi Daerah"
   },
   {
-    "No": 90,
+    "No": 89,
     "Nomor Peserta": "24402120910000004",
     "Nama": "TEZAR TRIMUDHA MUHSA",
     "JK": "L",
@@ -1260,7 +1246,7 @@
     "Sub-Divisi": "Direktorat Pengembangan Potensi Daerah"
   },
   {
-    "No": 91,
+    "No": 90,
     "Nomor Peserta": "24402120120000160",
     "Nama": "BUNGA ANNISA",
     "JK": "P",
@@ -1274,7 +1260,7 @@
     "Sub-Divisi": "Direktorat Pemberdayaan Usaha"
   },
   {
-    "No": 92,
+    "No": 91,
     "Nomor Peserta": "24402120110000375",
     "Nama": "MUHAMMAD HUSEIN SETIAWAN",
     "JK": "L",
@@ -1288,7 +1274,7 @@
     "Sub-Divisi": "Direktorat Pemberdayaan Usaha"
   },
   {
-    "No": 93,
+    "No": 92,
     "Nomor Peserta": "24402120110000026",
     "Nama": "RONI PRIYO SEJATI",
     "JK": "L",
@@ -1302,7 +1288,7 @@
     "Sub-Divisi": "Direktorat Wilayah I"
   },
   {
-    "No": 94,
+    "No": 93,
     "Nomor Peserta": "24402120910000009",
     "Nama": "DIYOBA SATRIAWAN JANG JAYA",
     "JK": "L",
@@ -1316,7 +1302,7 @@
     "Sub-Divisi": "Direktorat Wilayah I"
   },
   {
-    "No": 95,
+    "No": 94,
     "Nomor Peserta": "24402120110000568",
     "Nama": "ADAM MAHDI ELRAHMA ROSYADY",
     "JK": "L",
@@ -1330,7 +1316,7 @@
     "Sub-Divisi": "Direktorat Wilayah II"
   },
   {
-    "No": 96,
+    "No": 95,
     "Nomor Peserta": "24402120910000002",
     "Nama": "MUHAMMAD HAIKAL ILYASA",
     "JK": "L",
@@ -1344,7 +1330,7 @@
     "Sub-Divisi": "Direktorat Wilayah II"
   },
   {
-    "No": 97,
+    "No": 96,
     "Nomor Peserta": "24402120120000359",
     "Nama": "LUTHFI GIJO HARSAMI HARTONO",
     "JK": "P",
@@ -1358,7 +1344,7 @@
     "Sub-Divisi": "Direktorat Wilayah III"
   },
   {
-    "No": 98,
+    "No": 97,
     "Nomor Peserta": "24402120910000001",
     "Nama": "FATURRAHMAN FACHSANDY",
     "JK": "L",
@@ -1372,7 +1358,7 @@
     "Sub-Divisi": "Direktorat Wilayah III"
   },
   {
-    "No": 99,
+    "No": 98,
     "Nomor Peserta": "24402120110000185",
     "Nama": "BAGUS SATYA WARDANA",
     "JK": "L",
@@ -1386,7 +1372,7 @@
     "Sub-Divisi": "Direktorat Wilayah IV"
   },
   {
-    "No": 100,
+    "No": 99,
     "Nomor Peserta": "24402120110000338",
     "Nama": "M AZHAR TRIDHARMA PUTRA",
     "JK": "L",
@@ -1400,7 +1386,7 @@
     "Sub-Divisi": "Direktorat Wilayah V"
   },
   {
-    "No": 101,
+    "No": 100,
     "Nomor Peserta": "24402120320000001",
     "Nama": "CINDY JEANIKE CLAUDIA ELUAY",
     "JK": "P",
@@ -1412,5 +1398,145 @@
     "Formasi": "Papua",
     "Divisi": "Deputi Bidang Pengendalian Pelaksanaan Penanaman Modal",
     "Sub-Divisi": "Direktorat Wilayah V"
+  },
+  {
+    "No": 101,
+    "Nomor Peserta": "24402120120000462",
+    "Nama": "ALYA ZAFIRA",
+    "JK": "P",
+    "Tanggal Lahir": "13 September",
+    "Tahun": 2002,
+    "Pendidikan": "S-1 HUKUM",
+    "IPK": "3.57",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 102,
+    "Nomor Peserta": "24402120110000646",
+    "Nama": "ANDI MUHAMMAD FAUZAN ADZANI",
+    "JK": "L",
+    "Tanggal Lahir": "19 November",
+    "Tahun": 1999,
+    "Pendidikan": "S-1 HUKUM",
+    "IPK": "3.81",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 103,
+    "Nomor Peserta": "24402120120000278",
+    "Nama": "ANGGI RAMADHANTY",
+    "JK": "P",
+    "Tanggal Lahir": "28 Januari",
+    "Tahun": 1998,
+    "Pendidikan": "S-1 HUBUNGAN INTERNASIONAL",
+    "IPK": "3.82",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 104,
+    "Nomor Peserta": "24402120120000509",
+    "Nama": "ANJA NATALIA HARIYANTO",
+    "JK": "P",
+    "Tanggal Lahir": "12 Februari",
+    "Tahun": 2001,
+    "Pendidikan": "S-1 PERENCANAAN WILAYAH",
+    "IPK": "3.78",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 105,
+    "Nomor Peserta": "24402120110000250",
+    "Nama": "HARBI RIMADIANTO",
+    "JK": "L",
+    "Tanggal Lahir": "16 Juni",
+    "Tahun": 1998,
+    "Pendidikan": "S-1 ADMINISTRASI PAJAK",
+    "IPK": "3.05",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 106,
+    "Nomor Peserta": "24402120120000501",
+    "Nama": "HELDA SHAFIRA",
+    "JK": "P",
+    "Tanggal Lahir": "03 Juli",
+    "Tahun": 2001,
+    "Pendidikan": "S-1 HUKUM",
+    "IPK": "3.35",
+    "Jabatan": "Penata Kelola Penanaman Modal Ahli Pertama",
+    "Formasi": "Papua",
+    "Divisi": "Deputi Bidang Pengendalian Pelaksanaan Penanaman Modal",
+    "Sub-Divisi": "Direktorat Wilayah IV"
+  },
+  {
+    "No": 107,
+    "Nomor Peserta": "24402120110000319",
+    "Nama": "HOLGA NATHANAEL GUNUNG",
+    "JK": "L",
+    "Tanggal Lahir": "11 Desember",
+    "Tahun": 2000,
+    "Pendidikan": "S-1 HUBUNGAN INTERNASIONAL",
+    "IPK": "3.18",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 108,
+    "Nomor Peserta": "24402120110000576",
+    "Nama": "MUHAMAD RIZKY MULIA",
+    "JK": "L",
+    "Tanggal Lahir": "15 Desember",
+    "Tahun": 1996,
+    "Pendidikan": "S-1 SASTRA INGGRIS",
+    "IPK": "3.01",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 109,
+    "Nomor Peserta": "24402120110000534",
+    "Nama": "MUHAMMAD ZAKI RASYADI",
+    "JK": "L",
+    "Tanggal Lahir": "03 Juli",
+    "Tahun": 1997,
+    "Pendidikan": "S-1 TEKNIK KELAUTAN",
+    "IPK": "3.57",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
+  },
+  {
+    "No": 110,
+    "Nomor Peserta": "24402120120000382",
+    "Nama": "WAN LAILA RAHMADANI",
+    "JK": "P",
+    "Tanggal Lahir": "04 Januari",
+    "Tahun": 2000,
+    "Pendidikan": "S-1 SOSIAL EKONOMI PERTANIAN",
+    "IPK": "3.29",
+    "Jabatan": "-",
+    "Formasi": "-",
+    "Divisi": "-",
+    "Sub-Divisi": "-"
   }
 ]
